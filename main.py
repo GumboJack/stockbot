@@ -5,6 +5,7 @@ def main():
     response = request.get_currencies()
     print(response)
     print(response.content)
+    print(response.cookies)
 
 
 
