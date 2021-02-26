@@ -43,16 +43,16 @@ Letöltendő *extension*ök az MD fájlok könnyűszerű szerkesztéséhez, és 
 
 ## 4.1 Címsorok
 
-Ahhoz, hogy egy szöveg címsor (*header*) legyen, a hashmark jelet kell a sor elején használni. Többszintű címsor használatához, növeljük a hashmarkok számát. Mint HTML-ben, itt is 6 szintet különböztetünk meg. (A hashmark után szóköz)
+Ahhoz, hogy egy szöveg címsor (*header*) legyen, a **hashmark**(\#) jelet kell a sor elején használni. Többszintű címsor használatához, növeljük a hashmarkok számát. Mint HTML-ben, itt is 6 szintet különböztetünk meg. (A hashmark után szóköz)
 
 ## 4.2 Bekezdés
 
-Új bekezdés írásához 1 db üres sor használatos.
+Új bekezdés írásához 1 db **üres sor** használatos.
 
 ## 4.3 Sortörés
 
 Sortörés **Enter** leütésekor történik, ahogy megszokhattuk más-más szövegszerkesztő programok esetén.
->Megj.: A HTML-ből ismert \<br> használata is elfogadott.
+>Megj.: A HTML-ből ismert **\<br>** használata is elfogadott.
 
 ## 4.4 Félkövér szöveg
 
@@ -65,3 +65,46 @@ Szöveg dőltté tételéhez a szöveget egy-egy csillaggal kell közrefognunk. 
 ## 4.6 Félkövér és dőlt szöveg
 
 Ha kombinálni szeretnénk az előző két formázást, azt három darab csillaggal tehetjük meg: ***félkövé és dőlt szöveg***
+
+## 4.7 Blockquotes - idézet, ajánlás
+
+Használatához minden sort **\>** jellel kell kezdeni. Ha szükséges, akkor ezen a blokkon belül használhatjuk a formázás eszközeit.
+
+Példák:
+> Ez egy blockquote.
+
+> # Ez egy
+>> több soros,
+>>
+>> egymásba ágyazott
+> blokk
+>
+> - felsorolással
+> - és **egyéb** formázással.
+
+## 4.8 Rendezett lista
+
+Rendezett listákat sorszámozással hozhatunk létre, illetve dinamikusan.
+
+Számozással:
+
+1. Első listaelem
+2. Második listaelem
+    1. Második listaelem első allistaeleme
+    2. Második listaelem második allistaeleme
+
+Dinamikusan:
+
+1. Első listaelem
+1. Második listaelem
+    1. Második listaelem első allistaeleme
+    1. Második listaelem második allistaeleme
+
+## 4.9 Rendezetlen lista
+
+Többféle karakterrel kezdhetjük ezen sorainkat: **\-**, **\***, **\+**. De ajánlott a "*\-*"-t használni.
+
+- Első listaelem
+- Második listaelem
+  - Második listaelem első allistaeleme
+  - Második listaelem második allistaeleme
