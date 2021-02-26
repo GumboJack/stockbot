@@ -25,6 +25,8 @@
     1. [Táblázat](##Táblázat)
     1. [Szöveg áthúzása](##Szöveg-áthúzása)
     1. [Feladatlista](##Feladatlista)
+    1. [Emoji](##Emoji)
+1. [Néhány hasznos link](#Néhány-hasznos-link)
 
 # Rövid Bevezető
 
@@ -221,3 +223,24 @@ Ennek használatával checkboxokat jelenítünk meg, melyeknek két állapota va
 - [ ] Még elvégzendő feladat
 
 >Ez most egy teszt feltöltés, mert Visual Studio Codeban nem jelenik meg a checkbox.
+
+## Emoji
+
+Használhatunk emojikat is szövegírás közben.
+
+Néhány példa:
+
+- :blush:
+- :tent:
+- :joy:
+
+[Elvileg ezeket támogatja](https://gist.github.com/rxaviers/7360908)
+
+>Ezeket sem támogatja a Visual Studio Code. Ellenőrizni!
+
+# Néhány hasznos link
+
+- https://www.markdownguide.org/cheat-sheet/
+- https://www.markdownguide.org/basic-syntax/
+- https://www.markdownguide.org/extended-syntax/
+- https://github.github.com/gfm/
