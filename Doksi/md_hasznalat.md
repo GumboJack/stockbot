@@ -12,6 +12,10 @@
     1. Félkövér szöveg
     1. Dőlt szöveg
     1. Félkövér és dőlt szöveg
+    1. Blockquotes - idézet, ajánlás
+    1. Rendezett lista
+    1. Kód írása
+    1. Vízszintes vonal
 
 # 1. Rövid Bevezető
 
@@ -108,3 +112,35 @@ Többféle karakterrel kezdhetjük ezen sorainkat: **\-**, **\***, **\+**. De aj
 - Második listaelem
   - Második listaelem első allistaeleme
   - Második listaelem második allistaeleme
+
+>A rendezett és rendezettlen listákat kombinálhatjuk is.
+
+## 4.10 Kód írása
+
+Ha programkódot használunk a dokumentumunkban, a helyes formázás végett 4 db space-el, vagy egy **tab** kell beljebb kezdeni.
+
+    <html>
+    <head>
+        <title>My First page</title>
+    </head>
+    <body>
+        <p>This is a paragraph</p>
+    </body>
+
+Ha formázott kódot írnánk, akkor 3 db *backtick* vagy *tilde*(\~) közé írjuk a kódblokkot, illetve hogy megfeleljenek a programnyelvnek a kiemelések, azt is megadhatjuk:
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+Inline kód esetén az AltGr + 7 aposztrófot (*backtick*) használhatjuk: `<br>`.
+
+## 4.11 Vízszintes vonal
+
+Vízszintes vonalat is meg lehet jeleníteni, két sortőrés közt három **\-** jellel.
+
+---
