@@ -9,6 +9,7 @@
     1. [Címsorok](##Címsorok)
     1. [Bekezdés](##Bekezdés)
     1. [Sortörés](##Sortörés)
+    1. [Escape karakter](##Escape-karakter)
     1. [Félkövér szöveg](##Félkövér-szöveg)
     1. [Dőlt szöveg](##Dőlt-szöveg)
     1. [Félkövér és dőlt szöveg](##Félkövér-és-dőlt-szöveg)
@@ -20,6 +21,7 @@
     1. [Linkek](##Linkek)
         1. [Honlapra mutató link](###Honlapra-mutató-link)
         1. [Referencia link](###Referencia-link)
+    1. [Kép beillesztése](##Kép-beillesztése)
 
 # Rövid Bevezető
 
@@ -61,6 +63,10 @@ Ahhoz, hogy egy szöveg címsor (*header*) legyen, a **hashmark**(\#) jelet kell
 
 Sortörés **Enter** leütésekor történik, ahogy megszokhattuk más-más szövegszerkesztő programok esetén.
 >Megj.: A HTML-ből ismert **\<br>** használata is elfogadott.
+
+## Escape karakter
+
+Ha szövegbe foglalnánk egy speciális karaktert, és nem a hatását szeretnénk érvényesíteni, akkor elé kell írjunk egy **\\** karaktert.
 
 ## Félkövér szöveg
 
@@ -166,3 +172,18 @@ Ha egyszerű linket, vagy **email** címet szeretnénk  megjeleníteni, azt kacs
 Referencia linket használhatunk a címsorokra például. A szóköz helyett kötőjelet kell használjuk.
 
 [redezett lista fejezetre muatató link](#rendezett-lista)
+
+De a különböző címsorokat saját IDval  is elláthatjuk:
+#### Példa {#ez-egy-pelda-id}
+
+Ezek után így hivatkozhatunk rá: [hivatkozás](#ez-egy-pelda-id})
+
+## Kép beillesztése
+
+Felkiáltójellel kezdünk, majd a linkelés szerinti szintaxist használjuk. Külső honlapről és lokális helyről egyaránt beilleszthetünkl képet.
+
+![Bitcoin](https://miro.medium.com/max/2400/1*huoX84n7u2fNs5B4Px8zlg.png "Bitcoin")
+
+Ha át szeretnénk méretezni, akkor a HTML szerinti szintaxist használhatjuk:
+
+<img src="https://miro.medium.com/max/2400/1*huoX84n7u2fNs5B4Px8zlg.png" alt="Bitcoin" width="200" height="50"/>
