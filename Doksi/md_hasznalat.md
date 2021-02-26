@@ -1,38 +1,42 @@
 # Tartalomjegyzék
 
-1. Rövid bevezető
-1. Az MD használata
-1. Szerkesztésre alkalmas programok
-    1. Notepad++
-    1. Markdown Preview Enhanced
-1. Formázások
-    1. Címsorok
-    1. Bekezdés
-    1. Sortörés
-    1. Félkövér szöveg
-    1. Dőlt szöveg
-    1. Félkövér és dőlt szöveg
-    1. Blockquotes - idézet, ajánlás
-    1. Rendezett lista
-    1. Kód írása
-    1. Vízszintes vonal
+1. [Rövid bevezető](#Rövid-bevezető)
+1. [Az MD használata](#Az-MD-használata)
+1. [Szerkesztésre alkalmas programok](#Szerkesztésre-alkalmas-programok)
+    1. [Notepad++](##Notepad++)
+    1. [Markdown Preview Enhanced](##Markdown-Preview-Enhanced)
+1. [Formázások](#Formázások)
+    1. [Címsorok](##Címsorok)
+    1. [Bekezdés](##Bekezdés)
+    1. [Sortörés](##Sortörés)
+    1. [Félkövér szöveg](##Félkövér-szöveg)
+    1. [Dőlt szöveg](##Dőlt-szöveg)
+    1. [Félkövér és dőlt szöveg](##Félkövér-és-dőlt-szöveg)
+    1. [Blockquotes - idézet, ajánlás](##Blockquotes---idézet,-ajánlás)
+    1. [Rendezett lista](##Rendezett-lista)
+    1. [Rendezetlen lista](##Rendezetlen-lista)
+    1. [Kód írása](#Kód-írása)
+    1. [Vízszintes vonal](#Vízszintes-vonal)
+    1. [Linkek](##Linkek)
+        1. [Honlapra mutató link](###Honlapra-mutató-link)
+        1. [Referencia link](###Referencia-link)
 
-# 1. Rövid Bevezető
+# Rövid Bevezető
 
 Ez a rövid dokumentáció azért jött létre,hogy ismertesse az MD fájlok írásával, szerkesztésével kapcsolatos tudnivalókat.
 
-# 2. Az MD használata
+# Az MD használata
 
 Az *.md fájlokat* manapság a programozók használják, mivel a régimódi dokumentációkhoz képest sokkal **egyszerűbb az elsajátítása** és ezért könnyeb is ráérezni, pontosan ezért terjedt el a nagy **multinacionális cégek** körében és használják a **nagyvállalatok** is előszeretettel. Az *.md fájlokat* nagyon univerzálisan lehet felhasználni manapság és a eléggé könnyen szerkeszthető. Az *MD* a **Markdown Documentation** rövidítése, amely azt jelenti, hogy egy leíró dokumentációt készítünk, amit az *egyes programozók* által ***népszerű programok is többnyire ismernek***.
 
-# 3. Szerkesztésre alkalmas programok
+# Szerkesztésre alkalmas programok
 
-## 3.1 Notepad++
+## Notepad++
 
 A notepad++ elsősorban weboldalak **HTML,CSS,PHP és Javascript** file-jainak a szerkesztésére szokták használni a programozók,*viszont .md kiterjesztésű file megnyitására* is képes. [A notepad ++ letöltése.](https://notepad-plus-plus.org/downloads/)
 A notepad++ alapjáraton engedélyezi a fájlok megnyitását, szerkesztését. Amennyiben *preview*ra lenne szükségünk, arra létezik plugin. Ezt az alábbi linken lehet elérni: [Notepad++ plugin](https://github.com/nea/MarkdownViewerPlusPlus).
 
-## 3.2 Visual Studio Code
+## Visual Studio Code
 
 A Visual Studio Code szintén szimpla szövegszerkesztő, melynek funkciói *extension*ök letöltésével bővíthető.
 
@@ -43,34 +47,34 @@ Letöltendő *extension*ök az MD fájlok könnyűszerű szerkesztéséhez, és 
 1. Markdownlint
 2. Markdown Preview Enhanced
 
-# 4. Formázások
+# Formázások
 
-## 4.1 Címsorok
+## Címsorok
 
 Ahhoz, hogy egy szöveg címsor (*header*) legyen, a **hashmark**(\#) jelet kell a sor elején használni. Többszintű címsor használatához, növeljük a hashmarkok számát. Mint HTML-ben, itt is 6 szintet különböztetünk meg. (A hashmark után szóköz)
 
-## 4.2 Bekezdés
+## Bekezdés
 
 Új bekezdés írásához 1 db **üres sor** használatos.
 
-## 4.3 Sortörés
+## Sortörés
 
 Sortörés **Enter** leütésekor történik, ahogy megszokhattuk más-más szövegszerkesztő programok esetén.
 >Megj.: A HTML-ből ismert **\<br>** használata is elfogadott.
 
-## 4.4 Félkövér szöveg
+## Félkövér szöveg
 
 Félkövér szöveget dupla csillag közés zárjuk: **félkövér**
 
-## 4.5 Dőlt szöveg
+## Dőlt szöveg
 
 Szöveg dőltté tételéhez a szöveget egy-egy csillaggal kell közrefognunk. Pl.: *dőlt szöveg*
 
-## 4.6 Félkövér és dőlt szöveg
+## Félkövér és dőlt szöveg
 
 Ha kombinálni szeretnénk az előző két formázást, azt három darab csillaggal tehetjük meg: ***félkövé és dőlt szöveg***
 
-## 4.7 Blockquotes - idézet, ajánlás
+## Blockquotes - idézet, ajánlás
 
 Használatához minden sort **\>** jellel kell kezdeni. Ha szükséges, akkor ezen a blokkon belül használhatjuk a formázás eszközeit.
 
@@ -86,7 +90,7 @@ Példák:
 > - felsorolással
 > - és **egyéb** formázással.
 
-## 4.8 Rendezett lista
+## Rendezett lista
 
 Rendezett listákat sorszámozással hozhatunk létre, illetve dinamikusan.
 
@@ -104,7 +108,7 @@ Dinamikusan:
     1. Második listaelem első allistaeleme
     1. Második listaelem második allistaeleme
 
-## 4.9 Rendezetlen lista
+## Rendezetlen lista
 
 Többféle karakterrel kezdhetjük ezen sorainkat: **\-**, **\***, **\+**. De ajánlott a "*\-*"-t használni.
 
@@ -115,7 +119,7 @@ Többféle karakterrel kezdhetjük ezen sorainkat: **\-**, **\***, **\+**. De aj
 
 >A rendezett és rendezettlen listákat kombinálhatjuk is.
 
-## 4.10 Kód írása
+## Kód írása
 
 Ha programkódot használunk a dokumentumunkban, a helyes formázás végett 4 db space-el, vagy egy **tab** kell beljebb kezdeni.
 
@@ -139,8 +143,26 @@ Ha formázott kódot írnánk, akkor 3 db *backtick* vagy *tilde*(\~) közé ír
 
 Inline kód esetén az AltGr + 7 aposztrófot (*backtick*) használhatjuk: `<br>`.
 
-## 4.11 Vízszintes vonal
+## Vízszintes vonal
 
 Vízszintes vonalat is meg lehet jeleníteni, két sortőrés közt három **\-** jellel.
 
 ---
+
+## Linkek
+
+### Honlapra mutató link
+
+A szöveget melyet linkké teszünk **\[ \]** jelek közé írjuk, a honlap elérhetőségét **\() \)** jelek közt jelenítjük meg. Opcionálisan a honlap elérhetősége után szóközzel elválasztva, idézőjelek közt megjeleníthetjük a tooltippet, hogy mit írjon ki, ha ráviszi a felhasználó az egeret.
+
+[GitHub](https://github.com/ "Please click me!")
+
+Ha egyszerű linket, vagy **email** címet szeretnénk  megjeleníteni, azt kacsacsőrök közt tehetjük meg.
+
+<https://github.com/>
+
+### Referencia link
+
+Referencia linket használhatunk a címsorokra például. A szóköz helyett kötőjelet kell használjuk.
+
+[redezett lista fejezetre muatató link](#rendezett-lista)
