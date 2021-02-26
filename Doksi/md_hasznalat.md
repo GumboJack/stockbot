@@ -22,6 +22,7 @@
         1. [Honlapra mutató link](###Honlapra-mutató-link)
         1. [Referencia link](###Referencia-link)
     1. [Kép beillesztése](##Kép-beillesztése)
+    1. [Táblázat](##Táblázat)
 
 # Rövid Bevezető
 
@@ -187,3 +188,22 @@ Felkiáltójellel kezdünk, majd a linkelés szerinti szintaxist használjuk. K�
 Ha át szeretnénk méretezni, akkor a HTML szerinti szintaxist használhatjuk:
 
 <img src="https://miro.medium.com/max/2400/1*huoX84n7u2fNs5B4Px8zlg.png" alt="Bitcoin" width="200" height="50"/>
+
+## Táblázat
+
+Az oszlopokat tunnel jellel (**\|**) választhatjuk el, a headert a bodytól vízszintes vonallal (minimum 3 **\-**).
+
+| Col 1     | Col 2     |
+| --------- | --------- |
+| Col1 Row1 | Col2 Row1 |
+| Col1 Row2 | Col2 Row2 |
+
+A szövegigazítást is állíthatjuk:
+
+| Balra     | Középre   | Jobbra |
+| :-------- | :-------: | ----:  |
+| Col1 Row1 | Col2 Row1 | C3 R1  |
+| Col1 Row2 | Col2 Row2 | C3 R2  |
+
+[Táblázat generátor](https://www.tablesgenerator.com/markdown_tables)
+
