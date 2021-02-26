@@ -2,6 +2,8 @@
 
 1. Rövid bevezető
 2. Az MD használata
+3. Szerkesztésre alkalmas programok
+    3.1 Notepad++
 
 
 # 1. Rövid Bevezető #
@@ -11,3 +13,10 @@ Ez a rövid dokumentáció azért jött létre,hogy ismertesse az MD fájlok ír
 # 2. Az MD használata #
 
 Az *.md fájlokat* manapság a programozók használják, mivel a régimódi dokumentációkhoz képest sokkal **egyszerűbb az elsajátítása** és ezért könnyeb is ráérezni, pontosan ezért terjedt el a nagy **multinacionális cégek** körében és használják a **nagyvállalatok** is előszeretettel. Az *.md fájlokat* nagyon univerzálisan lehet felhasználni manapság és a eléggé könnyen szerkeszthető. Az *MD* a **Markdown Documentation** rövidítése, amely azt jelenti, hogy egy leíró dokumentációt készítünk, amit az *egyes programozók* által ***népszerű programok is többnyire ismernek***.
+
+# 3. Szerkesztésre alkalmas programok #
+
+## 3.1 Notepad++ ##
+
+A notepad++ elsősorban weboldalak **HTML,CSS,PHP és Javascript** file-jainak a szerkesztésére szokták használni a programozók,*viszont .md kiterjesztésű file megnyitására* is képes. [A notepad ++ letöltése.](https://notepad-plus-plus.org/downloads/)
+A notepad++ alapjáraton engedélyezi a fájlok megnyitását, szerkesztését. Amennyiben *preview*ra lenne szükségünk, arra létezik plugin. Ezt az alábbi linken lehet elérni: [Notepad++ plugin](https://github.com/nea/MarkdownViewerPlusPlus)
