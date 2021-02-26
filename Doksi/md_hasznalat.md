@@ -23,6 +23,8 @@
         1. [Referencia link](###Referencia-link)
     1. [Kép beillesztése](##Kép-beillesztése)
     1. [Táblázat](##Táblázat)
+    1. [Szöveg áthúzása](##Szöveg-áthúzása)
+    1. [Feladatlista](##Feladatlista)
 
 # Rövid Bevezető
 
@@ -207,3 +209,15 @@ A szövegigazítást is állíthatjuk:
 
 [Táblázat generátor](https://www.tablesgenerator.com/markdown_tables)
 
+## Szöveg áthúzása
+
+Az áthuzandó szöveget két **tilde** jel közé tesszük: ~~Áthúzott szöveg.~~
+
+## Feladatlista
+
+Ennek használatával checkboxokat jelenítünk meg, melyeknek két állapota van: elvégzett, elvégzendő.
+
+- [x] Elvégzett feladat
+- [ ] Még elvégzendő feladat
+
+>Ez most egy teszt feltöltés, mert Visual Studio Codeban nem jelenik meg a checkbox.
