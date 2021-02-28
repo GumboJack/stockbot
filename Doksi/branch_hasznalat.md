@@ -31,4 +31,12 @@ git checkout ujag
 
 ### Alkalmazásban
 
+#### Sourcetree
+
+1. Kattintsunk kettőt (a baloldalon található BRANCHES alatt lévő ágak közül) a fő águnkra (általában master).
+2. Katintsunk a **Branch** gombra a fenti eszköztáron.
+3. Adjuk meg az új branch nevét.
+4. Kattintsunka a **Create Branch** gombra.
+5. A program létrehozza és automatikusan át is vált az új branch-ünkre.
+
 ## Branch kezelése
