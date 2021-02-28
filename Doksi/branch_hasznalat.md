@@ -40,3 +40,7 @@ git checkout ujag
 5. A program létrehozza és automatikusan át is vált az új branch-ünkre.
 
 ## Branch kezelése
+
+A branch-ek segítségével jobban szétválaszhatóak az egyes folyamatok, feature-ök. Az adott ágon nyugodtan dolgozhatunk. Amikor úgy érezzük készen vagyunk, akkor a branch-ünkből **pull request**-et készíthetünk. Ezt a kérést az arra jogosult befűzheti (merge) a főágba.
+
+Ilyenkor a GitHub ellenőrzi, hogy van-e probléma (conflict), azaz van-e olyan kódrészlet, ami valamilyen okból ütközik. A legtöbb ilyet automatikusan feltudja oldani, de vannak esetek, amikor ez csak kézi beavatkozással lehetséges.
