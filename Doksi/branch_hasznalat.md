@@ -12,4 +12,23 @@ Az éppen aktuálisan kiválasztott ág (általában master) egy másolatát lem
 
 ## Branch létrehozása
 
+### Terminálban / parancssorban
+
+Váltsunk a fő águnkra (általában master):
+```
+git checkout master
+```
+
+Hozzunk létre egy új ágat:
+```
+git branch ujag
+```
+
+Váltsunk át a most létrehozott ágra:
+```
+git checkout ujag
+```
+
+### Alkalmazásban
+
 ## Branch kezelése
