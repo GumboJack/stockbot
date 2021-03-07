@@ -15,7 +15,12 @@
 1. [Fogalom szótár](#Fogalom-szótár)
 
 ## Bevezetés
+A projekt célja egy olyan kereskedő bot megalkotása, aminek segítségével profitot termelhetünk minimális kockázattal.
 
+Ezt legegyszerűbben úgy tudjuk elérni, hogy stratégiákat, algoritmusokat alkalmazunk amiket a programunkban implementálunk. Emellett fontos, hogy az általunk kiválasztott kriptovaluta megfeleljen különböző szempontoknak. A valutának  stabilnak kell lennie és fejlődő tendenciát kell hogy mutasson. Továbbá érdemes figyelni azt, hogy az egyes cégek mennyi és milyen részvényekbe fektetik bele a pénzüket. Manapság elég sokan arany és ezüst helyett a pénzüket inkább kriptorészvénybe fektetik. Mint például:
+> - Bitcoin
+> - Ethereum
+> - Litecoin
 ## Jelenlegi helyzet
 
 ## Vágyálomrendszer
