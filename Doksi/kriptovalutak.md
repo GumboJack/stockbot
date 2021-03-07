@@ -38,13 +38,13 @@ A blokklánc az elosztott főkönyvi technológia egyik implementációja. Ez az
 
 A megoldás attól alternatív, hogy
 
-1. megoldja a korábban a digitális információ másolásakor minden esetben létrejövő duplikáció kérdését, ezáltal lehetővé teszi az információ másolását oly módon, hogy elküldése után az információ csak és kizárólag a címzettnél létezzen, a kiindulási ponton viszont megszűnjön;
-2. az elszámolás nem központosított, a tranzakciók végrehajtásához harmadik fél bevonása nem szükséges;
-3. a rendszer bárki számára nyitott, tetszőlegesen lehet csatlakozni, vagy kiszállni;
-4. a könyvelés nem egy központi helyen vezetett főkönyvben történik, hanem minden egyes hálózatba kapcsolt csomópont értesül minden egyes tranzakcióról, ezen felül minden egyes csomópont el is tárol minden tranzakciót – ez az elosztott főkönyv;
-5. a tranzakciók titkosítottak;
-6. a tranzakciók egybegyűjtése, titkosítási folyamata ún. blokkokat, illetve blokkok láncolatát hozza létre (blokklánc-technológia); a technológiának köszönhetően az új tranzakciók mindig a régiekhez kapcsolódva kerülnek szétküldésre a hálózatban, tehát a teljes tranzakciós történet újra és újra elküldésre kerül, kizárva ezzel a visszamenőleges hamisítás lehetőségét is;
-7. a rendszer működtetésében, azaz a titkosítások elvégzésében résztvevőket az általa kibocsájtott digitális pénzzel jutalmazza, biztosítva ezzel a hálózat működését és fenntartását.
+- megoldja a korábban a digitális információ másolásakor minden esetben létrejövő duplikáció kérdését, ezáltal lehetővé teszi az információ másolását oly módon, hogy elküldése után az információ csak és kizárólag a címzettnél létezzen, a kiindulási ponton viszont megszűnjön;
+- az elszámolás nem központosított, a tranzakciók végrehajtásához harmadik fél bevonása nem szükséges;
+- a rendszer bárki számára nyitott, tetszőlegesen lehet csatlakozni, vagy kiszállni;
+- a könyvelés nem egy központi helyen vezetett főkönyvben történik, hanem minden egyes hálózatba kapcsolt csomópont értesül minden egyes tranzakcióról, ezen felül minden egyes csomópont el is tárol minden tranzakciót – ez az elosztott főkönyv;
+- a tranzakciók titkosítottak;
+- a tranzakciók egybegyűjtése, titkosítási folyamata ún. blokkokat, illetve blokkok láncolatát hozza létre (blokklánc-technológia); a technológiának köszönhetően az új tranzakciók mindig a régiekhez kapcsolódva kerülnek szétküldésre a hálózatban, tehát a teljes tranzakciós történet újra és újra elküldésre kerül, kizárva ezzel a visszamenőleges hamisítás lehetőségét is;
+- a rendszer működtetésében, azaz a titkosítások elvégzésében résztvevőket az általa kibocsájtott digitális pénzzel jutalmazza, biztosítva ezzel a hálózat működését és fenntartását.
 
 Tehát 2009-től már nem csak információ áramoltatására képes az internet, hanem értékek áramoltatására is. Létrejött tehát az értékek hálózata, és rajta az új technológiát használó Bitcoin-rendszer.
 
