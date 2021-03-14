@@ -6,6 +6,11 @@
 - [Fontosabb kriptovaluták](#fontosabb-kriptovaluták)
   - [Bitcoin](#bitcoin)
   - [Ethereum](#ethereum)
+  - [Tether](#tether)
+  - [Binance Coin](#binance-coin)
+  - [Cardano](#cardano)
+  - [Litecoin](#litecoin)
+  - [Dogecoin](#dogecoin)
 
 # Kriptovaluták
 
@@ -75,4 +80,60 @@ Az Ethereum egy nyílt forráskódú, nyilvános, közösségi, blokklánc alap�
 
 Az ethereum a jelenleg talán leghíresebb és legismertebb kriptopénz, azaz a bitcoin mellett az egyik legfelkapottabb altcoin (így hívják a bitcoin melletti kriptopénzeket, mely a bitcoin és az alternatív szavak összevonásából keletkezett). Lényegében a második helyen áll a kriptopénzek ranglistáján a piaci kapitalizáció alapján is. A kedvelői szokták Bitcoin 2.0-nak is nevezni.
 
-Az Ethereum létrehozását 2013 végén Vitalik Buterin, a kriptovaluták egyik kutatója, programozó javasolta. A fő cél az volt, hogy egy olyan altcoint hozzanak létre, ami megoldást nyújt a bitcoin működése és használata során jelentkező problémákra (például a kriptopénzek világában hosszúnak számító tranzakciós időkre, vagy a centralizált, "bányászok" esetén felmerülő 51%-os hashrate birtoklási probléma). A fejlesztés pénzügyi hátterét egy 2014. július-augusztusban lezajlott online közösségi alapgyűjtésen keresztül biztosították. A rendszer 2015. július 30-án 11,9 millió érmével indult, melyeket a közösségi vásárláshoz “előbányásztak.”Ez hozzávetőlegesen a teljes forgalomban lévő mennyiség körülbelül 13%-át teszi ki
+Az Ethereum létrehozását 2013 végén Vitalik Buterin, a kriptovaluták egyik kutatója, programozó javasolta. A fő cél az volt, hogy egy olyan altcoint hozzanak létre, ami megoldást nyújt a bitcoin működése és használata során jelentkező problémákra (például a kriptopénzek világában hosszúnak számító tranzakciós időkre, vagy a centralizált, "bányászok" esetén felmerülő 51%-os hashrate birtoklási probléma). A fejlesztés pénzügyi hátterét egy 2014. július-augusztusban lezajlott online közösségi alapgyűjtésen keresztül biztosították. A rendszer 2015. július 30-án 11,9 millió érmével indult, melyeket a közösségi vásárláshoz “előbányásztak.”Ez hozzávetőlegesen a teljes forgalomban lévő mennyiség körülbelül 13%-át teszi ki.
+
+## Tether
+
+A Tether egy dollárt helyettesítő kriptovaluta. A legtöbb esetben USDT-ként fogsz találkozni vele.
+
+A Tether legfontosabb funkciója, hogy tudjuk a kriptovaluta-tőzsdéken is dollárban tartani (vagy legalábbis egy annak az árfolyamához kötött termékben) a pénzünket.
+
+Ez a gyakorlatban azt jelenti, hogy ha beutaljuk a hagyományos fiat-valutánkat, például dollárt a bankszámlánkról a bitcoin tőzsde által megadott bankszámlára, akkor a bitcoin tőzsde azt USDT-re váltja át, és a továbbiakban a bitcoin tőzsdén nekünk nem igazi dollárunk lesz, hanem USDT, ami természetesen átváltható volna hagyományos dollárra, de a legtöbb esetben csak értékmegőrzőként szolgál a kereskedők számára.
+
+A Tether kibocsátását egy magánvállalat végzi, amelyik létrehozta a Tether virtuális valutát. A szolgáltató honlapját a tether.to címen találjuk. A tether.to mögött levő cég azt vállalja, hogy a létrehozott Tetherek mögött valós dollár fedezet fog állni minden esetben. Ez tehát azt jelenti elméletben, hogy ha egy ügyfél beutal a tether.to vállalkozás számlájára egy hagyományos dollárt, akkor ugyanannyi Tether kerül kibocsátásra. Tehát az USDT és hagyományos USD árfolyam mindig egy az egyhez. Ez a gyakorlatban is így van, 0,99 és 1,01 között szokot mocorogni az árfolyam, de sose komolyabban.
+
+A Tether kriptó blokklánca már évek óta működik, de piaci kapitalizációja csak 2017-ben kezdett jelentősen megnövekedni.Jelenleg már két milliárd dollár fölötti a kapitalizációja, és így kétmillárd fölötti USDT is van forgalomban.
+
+## Binance Coin
+
+Nem meglepő módon a Binance Coin a Binance tőzsde saját coinja. Kiváló szerepet tölt be, ha csökkenteni szeretnénk a kereskedési díjainkat. Elég ha csak egy darab coint tartunk a tárcánkban és máris a felére csökkennek a kereskedési költségek.
+
+A Binance tokenje az Ethereum blockchainen fut, és követi az ERC20 szabványt. Összesen 200 millió tokent bocsájtottak ki, és üzleti tervük szerint minden negyedévben a bevételeik 20%-át arra költik, hogy visszavásároljanak és “elégessenek” jelentős mennyiségű BNB-t, egészen amíg 100 milliót el nem éri a max supply.
+
+## Cardano
+
+A Cardano (ADA) 2017 szeptemberében lépett piacra, és pár nap leforgása alatt került be a top10-be, ezzel is bizonyítva, hogy komoly hátszele, komoly befektetői bázisa van. A Cardano önmagát – az IOTÁ-val egyetemben – ún. harmadik generációs kriptovalutaként határozza meg.
+
+A Cardano egy decentralizált platform, ami az Ethereumhoz hasonlóan okos-szerződésekkel foglalkozik. Azonban az ADA újszerű megoldásokat kínál a szabályozásra, a biztonságra, az irányításra és a hosszú távú tervezésre is.
+
+Fejelsztési metódusa speciális. Egy folyamatosan gyarapodó nemzetközi tudósokból álló csoport dolgozik rajta, és a legújabb fejlesztési irányokat mindig szavazással döntik el. Ezzel próbálják biztosítani, hogy hosszútávon is ez a termék maradjon a legfejlettebb.
+
+Az Ouroboros Proof of Stake algoritmust használja, melyet a saját csapata fejlesztett ki. Rétegekből épül fel, mely lehetővé teszi akár a soft fork alatti bővítést is. Legfőbb előnye hosszú távon, hogy töredéknyi számítási teljesítményt és elektromosságot emészt fel, mint a Bitcoin Proof of Work rendszere.
+
+Bányászatához semmilyen speciális hardwarre nincsen szükség, mindössze a wallet alkalmazásra. Amennyiben a tárcánk tartalmaz akármilyen kevés ADA-t, és az appot hagyjuk futni a háttérben, ezzel már termeljük is a tokeneket magunknak.
+
+A token jövője fényes – amennyiben a bikák visszatérnek a mezőre -, és habár nem konkurencia nélküli termék, de hosszútávon bizonyosan átveszi a piac vezetését a másik harmadik generációs tokennel egyetemben.
+
+## Litecoin
+
+A Litecoin egy nyílt forráskódú kriptopénz, amelyet 2011. október 7-én Charles Lee (korábban a Google alkalmazottja volt) tett közzé a GitHubon. Az elnevezés vonatkozik továbbá a fizetőeszközt kezelő nyílt forráskódú szoftverre, és az azzal létrehozott elosztott hálózatra is. A Litecoin számos hasonlóságot mutat a Bitcoinnal, a köztük levő legfontosabb különbség az új blokkok generálásához használt kriptográfiai algoritmusban van.
+
+A Bitcoinhoz hasonlóan a Litecoin nem függ központi kibocsátóktól és hatóságoktól. A Litecoin a peer-to-peer hálózat csomópontjai által tárolt elosztott adatbázisra támaszkodik. Az adatbázis tartalmazza a fizetések adatait, garantálva az elektronikus fizetőeszközökkel szembeni alapvető követelményeket. A biztonságot digitális aláírások és proof-of-work rendszer adja.
+
+A Litecoinok biztonságosan tárolhatók egy pénztárcafájlban, személyi számítógépen, mobiltelefonon, külső adathordózókon, vagy felhő alapú szolgáltatóknál, küldésükhöz és fogadásukhoz pedig csak a küldő illetve a fogadó Litecoin címe szükséges. A peer-to-peer felépítés és a központi irányítás hiánya megakadályozza bármilyen hatóság számára, hogy a forgalomban levő pénzmennyiséget és tranzakciókat kontrollálja vagy befolyásolja, ami lehetetlenné teszi a manipulációt és infláció gerjesztését.
+
+Nem hivatalos jellege miatt ISO kódja nincs, de általánosan használt megjelölése az LTC.
+
+Az egyik legnagyobb különbség a Bitcoin és a Litecoin között a teljes kínálat terén keresendő. Itt tér el a Litecoin a Bitcointól a legnagyobb mértékben. A Bitcoin hálózatán soha nem lehet több mint 21 millió coin, míg a Litecoin esetében ez a szám 84 millió. Elméletben óriási előnynek tűnik, bár a való világi hatása elhanyagolható. Ez azért van, mert mind a két coin milliószorosára osztható. Az oszthatóság azért fontos, mert segítségével a felhasználók nagyon olcsó termékeket és szolgáltatásokat is meg tudnak vásárolni attól függetlenül, hogy milyen magasan jár egy egység BTC vagy LTC árfolyama.
+
+## Dogecoin
+
+A Dogecoin az egy meme coin…
+
+Nincs mit cifrázni, az eredeti fejlesztője, Jackson Palmer is ezt állítja róla és hű az eredeti kijelentéséhez melyet még a kezdeti fejlesztések során mondott. Tulajdonképpen ezt a projektet a fejlesztő egy kísérlet szempontjából hozta létre, hogy bizonyítsa, hogy az emberek mennyi “értelmetlen” pénzt feccelnek különféle kriptoprojektekbe.
+
+A bizonyítása sikeres lett, hiszen ez a meme coin meghaladta 0.017 dollárt a kezdeti 0.00026 dollárhoz képest. Sőt ha ránézünk a jelenlegi piaci kapitalizációra láthatjuk, hogy ez a poén projekt (2018.03.27.) megközelítőleg 360 millió amerikai dollárt ér.
+
+Nem szabad azonban elfeledni, hogy talált magának szerepet ez a coin a kriptovilágban. Eleinte a Reddit-en majd a Twitter-en használták a felhasználók borravalónak. A későbbiekben elkezdték különféle kiskereskedők is elfogadni ezt a kriptopénzt, mint fizetőeszközt.
+
+Összegezve, ezt a coint a közösség tartotta életben és ez valószínüleg így is fog maradni még egy jó darabig. Talán a következő poén coin-ig.
