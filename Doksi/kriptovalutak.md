@@ -7,6 +7,7 @@
   - [Bitcoin](#bitcoin)
   - [Ethereum](#ethereum)
   - [Tether](#tether)
+  - [Ripple](#ripple)
   - [Binance Coin](#binance-coin)
   - [Cardano](#cardano)
   - [Litecoin](#litecoin)
@@ -93,6 +94,20 @@ Ez a gyakorlatban azt jelenti, hogy ha beutaljuk a hagyományos fiat-valutánkat
 A Tether kibocsátását egy magánvállalat végzi, amelyik létrehozta a Tether virtuális valutát. A szolgáltató honlapját a tether.to címen találjuk. A tether.to mögött levő cég azt vállalja, hogy a létrehozott Tetherek mögött valós dollár fedezet fog állni minden esetben. Ez tehát azt jelenti elméletben, hogy ha egy ügyfél beutal a tether.to vállalkozás számlájára egy hagyományos dollárt, akkor ugyanannyi Tether kerül kibocsátásra. Tehát az USDT és hagyományos USD árfolyam mindig egy az egyhez. Ez a gyakorlatban is így van, 0,99 és 1,01 között szokot mocorogni az árfolyam, de sose komolyabban.
 
 A Tether kriptó blokklánca már évek óta működik, de piaci kapitalizációja csak 2017-ben kezdett jelentősen megnövekedni.Jelenleg már két milliárd dollár fölötti a kapitalizációja, és így kétmillárd fölötti USDT is van forgalomban.
+
+## Ripple
+
+Míg a legtöbb kriptopénz a Bitcoinhoz hasonló utat választott, a Ripple éppen az ellenkezőjét tette: egyszerűbbé tette a pénzintézetek közötti pénzmozgást.
+
+Mielőtt egy bank pénzt küldhetne egy másik országba, rendelkeznie kell egy számlával, melyet egy a célországban üzemelő banknál kell megnyitnia az adott ország pénznemében. Ezek az un. Nostro számlák, amelyek a nemzetközi utalásokat bonyolítják. A legtöbb kis és közepes banknak a Nostro számlák létrehozása és fentartása minden lehetséges országban, ahová az ügyfelei egyszer talán majd pénzt küldenek, rendkívül költséges és erőforrásigényes. A legtöbb nem is bajlódik ezzel, hanem megbíz egy másik bankot, hogy biztosítsa számára a szükséges likviditást.
+
+A Ripple által készített ábrán láthatjuk hogy például egy amerikai bankból egy japán bankba történő utalás során 4 köztes szereplőn is keresztül megy a pénz és minden lépés újabb költségeket ró a bankra és az ügyfelekre is, az időveszteségről nem is beszélve. A rendszer még a 20. század során alakult ki és természetesen nélkülöz minden olyan megoldást, ami az internet korában már elvárható lenne.
+
+A Ripple centralizált rendszere, erre az elavult rendszerre nyújt megoldást. A számtalan Nostro számla fentartása és azok likviditásának biztosítása helyett, egy bank a Ripple hálózat tagjaként csupán egy Ripple számlát kell hogy fentartson, rajta elegendő XRP-vel (a hálózat pénzneme), ami elegendő fedezetet nyújt az általuk végrehajtott legnagyobb utaláshoz.
+
+A bankoknak ezáltal sokkal kisebb likviditást kell biztosítaniuk és az így felszabaduló erőforrásaikat hasznosabb dolgokra fordíthatják. A Ripple hálózaton egy utalás 4 másodpercet vesz igénybe, szemben a hagyományos módon végzett nemzetközi utalások átlagosan 3 napos idejével. A Ripple számításai szerint egy bank akár 30%-ot is spórolhat tranzakciós költségein, ha ehhez az ő hálózatukat használja.
+
+A Ripple-t az azt támogató bankok miatt sokan jó befektetésnek tartják, mások viszont éppen ezért már puszta létezését is a kriptopénzek megcsúfolásának tekintik.
 
 ## Binance Coin
 
