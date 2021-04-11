@@ -1,0 +1,8 @@
+version: '3.3'
+services:
+  goldberg:
+    image: ubuntu
+    restart: always
+    hostname: goldberg
+    stdin_open: true
+    tty: true
