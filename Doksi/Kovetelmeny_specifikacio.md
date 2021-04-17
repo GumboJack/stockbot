@@ -21,6 +21,11 @@ Ezt legegyszerűbben úgy tudjuk elérni, hogy stratégiákat, algoritmusokat al
 > - Bitcoin
 > - Ethereum
 > - Litecoin
+> - Tether
+> - Ripple
+> - Binance coin
+> - Cardano
+> - Litecoin
 ## Jelenlegi helyzet
 
 ## Vágyálomrendszer
