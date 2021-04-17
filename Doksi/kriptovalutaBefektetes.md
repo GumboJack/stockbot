@@ -7,6 +7,14 @@ A legnépszerűbb kriptovaluta a Bitcoin , amely az első kriptovaluta jelent me
 
 Véleményem szerint, hosszútávon érdemes befektetni a Bitcoinba. Mint azt már mindenki hallotta Elon Musk számít a világ leggazdagabb emberének, ez által amibe ő fektet az biztos nem lehet rossz ötlet, sőt szerintem a közeljövőben elég sokan fogják őt követni és a pénzüket arany, ezüst helyett kriptovalutákba fektetik.
 
+##Ripple
+
+A Ripple platform egy nyílt forráskódú protokoll, amelyet arra terveztek, hogy felgyorsítsa és olcsóbbá tegye a pénzügyi tranzakciókat. A Bitcoinnal ellentétben - amelyet soha nem szándékoztak csak egyszerű fizetési eszközként kezelni - a Ripple világszerte támogatja a nemzetközi tranzakciókat. A platformnak saját virtuális valutája is van, ez az XRP. Az XRP kriptovaluta ára 2018. január 4-én elérte a 3,81 dolláros csúcsot. Ez akkor 331 milliárd dolláros piaci kapitalizációt jelentett, amely a Ripple-t olyan nagyvállalatok közé repítette, mint a Google, az Apple, a Facebook vagy az Alibaba. A Forbes szerint Chris Larsen, a Ripple ügyvezetője a társaság 17%-ával rendelkezik, azaz 5,19 milliárd XRP-t tart a kezében, ami a 2018-as csúcson 50 milliárd dollárt ért, mellyel Larsen a világ leggazdagabb emberei közé került.
+
+Ma a ripple kriptovaluta ára 0,20 dollár körül mozog, piaci kapitalizációja 8,6 milliárd dollár, amellyel a kriptovaluták ranglistáján a Bitcoin (BTC) és az Ethereum (ETH) mögött a harmadik helyet foglalja el.
+
+Annak mérlegelésekor, hogy melyik kriptovalutába fektessenek be, érdemes odafigyelni a Ripple-re, amely alacsony ára ellenére is kereskedelmi forgalomban lévő kriptovalutaként ismert. A valamivel ezelőtt kezdődött RippleNet projektet támogatást kapott a Santander és az UniCredit, valamint más bankok, vállalatok és a kormány. Az előnyök között szerepel a közvetlen és azonnali nemzetközi tranzakciók lehetősége is. Ezért hosszútávon ez is egy kiváló befektetés lehet.
+
 ##Ethereum
 
 Az Ethereum figyelmet érdemel a kriptovaluták körében is, amely az elmúlt hónapokban jelentősen felértékelődött . Az Ethereumot gyakran a jövő pénznemeként emlegetik, mivel értéke és potenciálja nyilvánosságra kerül. Az állandó fejlődés és az egyre növekvő népszerűség miatt szinte tökéletes befektetéssé válik a kriptovaluták között.
