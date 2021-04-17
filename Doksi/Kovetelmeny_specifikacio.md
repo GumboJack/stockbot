@@ -44,6 +44,23 @@ Ugyanúgy, mint a fizikailag létező pénztárca, a digitális pénztárca is p
 ## Funkcionális követelmények
 
 ## Rendszerre vonatkozó törvények, szabványok, ajánlások
+
+Budapest, 2020. február 14. – Az MNB nem felügyeli a kriptovalutákhoz kötődő kereskedelmi ügyleteket, a – magyar jogrendben ismeretlen – nyereségrészesedési jog forgalmazása pedig akár jogosulatlan betét/pénzeszköz gyűjtésének minősülhet. Ezen eszközök árfolyama kiszámíthatatlan, hiányoznak a károsultakat védő garanciaintézmények, s bűncselekmények elkövetésére is felhasználhatják őket. Átlagos pénzügyi ismeretekkel rendelkező fogyasztóknak kockázatos ezekbe fektetni.
+
+Az immár az amerikai hatóságok által vizsgált OneCoin befektetési csalás ismételten rávilágít arra: az átlagos pénzügyi tudással bíró fogyasztók számára rendkívül kockázatos ismeretlen befektetési eszközökbe fektetni. Bár a OneCoin nem volt valódi kriptovaluta (nem lehetett vele ténylegesen kereskedni, nem rendelkezett a valamiféle ellenőrizhetőséget segítő blokklánccal és valós árfolyammal), a közel hasonló kockázatok minden egyéb, a pénzügyi felügyeletek/jegybankok által nem ellenőrzött befektetési formánál megvannak. Ez akkor szűnik meg, ha – a valóban hasznos, a fogyasztók érdekét is szolgáló – innováció szabályozott keretek között működik.
+
+A fizetésre használható virtuális eszközöknek (kriptovalutáknak, pl. Bitcoin) nincs hivatalos kibocsátójuk, nem tartoznak a világ legtöbb országa hatósága, jegybankja – így a Magyar Nemzeti Bank (MNB) – felügyelete alá sem. Jogi helyzetük világszerte ma még szabályozatlan, a sokszor előforduló fizetési probléma, visszaélés vagy lopás esetén nem védik a befektetőket betét- vagy befektetővédelmi garanciaintézmények. Hiányoznak a felelősségi és kárviselési előírások is. A kriptovaluták árfolyam-ingadozása gyakorta kiszámíthatatlan, az átlagos befektetők számára ismeretlen események mozgatják.
+
+A károsultak ráadásul csak polgári perben, bűncselekmény gyanúja esetén pedig büntetőfeljelentéssel próbálhatják érvényesíteni jogaikat – sokszor külföldön, idegen jogi és nyelvi környezetben. Minderről az MNB az elmúlt öt évben többször – így 2015-ben, 2016-ban és 2017-ben, s külön az ICO-k témájában és a kriptovalutákkal eladni próbált piramisjáték-gyanús MLM-rendszer ügyében is – tett közzé írásos figyelmeztetéseket, illetve publikálta az Európai Bankfelügyeleti Hatóság (EBA) figyelmeztetését is.
+
+A nyereségrészesedési jogot kínáló társaságok gyakorta különböző start-up cégek, magyar feltalálók által fejlesztett, jól csengő „világraszóló találmányok” (például zéróponti víz, tűzálló fa, Rubik-kocka méretű kazán) vagy más innovációk fejlesztése és piacra vitele céljából gyűjtenek forrást.
+
+A befektetők kültagként vagy kisebbségi tulajdonosként szerezhetnek nyereségrészesedési jogot az ezek kiaknázására létrehozott befektetési társaságokban, a szervező beltag vagy többségi tulajdonos cég mellett. A forrásgyűjtést végző gazdasági társaság a kültagokat jellemzően hosszú távon megtérülő mesés osztalék ígéretével igyekszik befektetésre ösztönözni.
+
+A nyereségrészesedési jog a hatályos magyar jogszabályok által nem ismert jogintézmény. Előfordulhat, hogy a szervező cég e tevékenység örve alatt ténylegesen visszafizetési kötelezettség vállalása mellett üzletszerűen betéteket vagy más visszafizetendő pénzeszközöket gyűjt a befektetőktől. Mivel ez az MNB engedélyéhez kötött, a jegybank ilyen esetekben piacfelügyeleti intézkedést hoz a jogosulatlan pénzügyi szolgáltatóval szemben. További részletek az MNB honlapjának megújult figyelemfelhívó aloldalán olvashatók.
+
+<https://www.mnb.hu/sajtoszoba/sajtokozlemenyek/2020-evi-sajtokozlemenyek/kriptovaluta-nyeresegreszesedesi-jog-fokozott-befektetoi-kockazatok>
+
 ### Szerzői jogszabályok
 ### Adatvédelmi jogszabályok
 
