@@ -12,3 +12,12 @@ Mi az a Swing kereskedés? Olyan kereskedési módszer, amely során, a keresked
 
 Példa:
 Az egyik legnépszerűbb technika a Swing Trade-nél az indikátorok használatával történő kereskedés.
+
+### Indikátorok, Indikátorok fajtái?
+
+Alapvetően **két indikátor** fajtáról beszélhetünk. 
+> - Az egyik indikátor fajta a technikai elemzők által széles körben használt indikátorok,melyek a részvény árfolyamát veszik alapul a számításuk soran. A lényege tehét ezeknek az indikátoroknak, hogy egyetlen részvény árfolyamáról adnak információt. 
+
+> - A másik típusa a piaci szélességet mérő indikátorok, melyek nem egy részvény árfolyam mozgását vizsgálják, hanem tőzsdén kereskedett összes részényt.
+
+Ha a legjobb indikátorokat használjuk a Swing kereskedéshez, az segíthet minket abban, hogy rendszerezzük a stratégia megközelítéseit, így nem azzal törődünk, hogy egy indikátor önmagában mit is mond nekünk. Az előkészület kulcsfontosságú a kereskedésnél.
