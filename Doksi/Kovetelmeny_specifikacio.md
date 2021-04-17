@@ -74,6 +74,11 @@ A nyereségrészesedési jog a hatályos magyar jogszabályok által nem ismert 
 
 *2014. évi XXII. törvény* a reklámadóról
 
+*2001. évi CVIII. törvény* az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről
+
+*2012. évi C. törvény* a Büntető Törvénykönyvről (384-388. §; 419. §)
+A Büntető törvénykönyvnek A szellemi tulajdon elleni bűncselekmények című XXXVII. fejezetéből a szerzői jog szempontjából releváns tényállásokat a  384.-387. §-ok tartalmazzák.
+
 
 
 ### Adatvédelmi jogszabályok
