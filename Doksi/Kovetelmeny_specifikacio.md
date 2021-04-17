@@ -64,21 +64,107 @@ A nyereségrészesedési jog a hatályos magyar jogszabályok által nem ismert 
 
 ### Szerzői jogszabályok
 
-*A 2001. évi CVIII.törvény*  az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről
-
-*26/2010. (XII. 28.)* KIM rendelet a Szellemi Tulajdon Nemzeti Hivatala által vezetett önkéntes műnyilvántartás részletes szabálya
-
-*2016. évi XCIII. törvény* a szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről
+Magyar jogszabályok
 
 *1999. évi LXXVI. törvény* a szerzői jogról
 
-*2014. évi XXII. törvény* a reklámadóról
+*2016. évi XCIII. törvény* a szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről
+
+*216/2016. (VII. 22. ) Korm. rendelet* a közös jogkezelő szervezetek és a független jogkezelő szervezetek működésének és a jogkezeléssel kapcsolatos eljárások részletes szabályairól
+
+*138/2014. (IV. 30.) Korm. rendelet* az árva mű felhasználásának részletes szabályairól  
+
+*26/2010. (XII. 28.) KIM rendelet* a Szellemi Tulajdon Nemzeti Hivatala által vezetett önkéntes műnyilvántartás részletes szabálya
+
+*156/1999. (XI. 3.) Korm. rendelet* a Szerzői Jogi Szakértő Testület szervezetéről és működéséről
+
+*19/2016. (IX. 5.) IM rendelet* a közös jogkezelő szervezetek és a független jogkezelő szervezetek jogkezelési tevékenységének bejelentésével, valamint a reprezentatív közös jogkezelő szervezetként végzett közös jogkezelési tevékenység engedélyezésével kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díjra vonatkozó szabályokról
+
+*117/2004. (IV.28.) Korm. rendelet* a szerzői jogról szóló 1999. évi LXXVI. törvény 38. §-ának (5) bekezdésében szabályozott szabad felhasználás esetében a nyilvánosság egyes tagjaihoz való közvetítés és a számukra történő hozzáférhetővé tétel módjának és feltételeinek meghatározásáról 
+
+*14/2011. (IV. 7.) NEFMI rendelet* a nyilvános haszonkölcsönzésért a szerzőt megillető díj megállapításához és felosztásához szükséges adatokról, valamint az adatszolgáltatásra kötelezett nyilvános könyvtárakról 
+
+*158/2000. (IX. 13.) Korm. rendelet* a reprográfiára szolgáló készülékek körének meghatározásáról
 
 *2001. évi CVIII. törvény* az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről
+
+A *2013. évi V. törvény* a Polgári törvénykönyvről teljes szövege 
 
 *2012. évi C. törvény* a Büntető Törvénykönyvről (384-388. §; 419. §)
 A Büntető törvénykönyvnek A szellemi tulajdon elleni bűncselekmények című XXXVII. fejezetéből a szerzői jog szempontjából releváns tényállásokat a  384.-387. §-ok tartalmazzák.
 
+*1995. évi XXXIII. törvény* a találmányok szabadalmi oltalmáról
+
+Szellemi tulajdonjogok megsértése miatt indított perben hozott határozat végrehajtása - a bírósági végrehajtásról szóló *1994. évi LIII. törvény 184/A. §-a*
+
+ 
+
+### Európai uniós jogszabályok
+
+Az Európai Parlament és a Tanács 2017/1563 rendelete (2017. szeptember 13.) a szerzői és szomszédos jogi védelemben részesülő egyes művek és más teljesítmények hozzáférhető formátumú példányainak a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló, határokon átnyúló, az Unió és harmadik országok közötti cseréjéről
+
+Az Európai Parlament és a Tanács 2017/1564/EU irányelve (2017. szeptember 13.) a szerzői és szomszédos jogi védelemben részesülő egyes műveknek és más teljesítményeknek a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló egyes megengedett felhasználási módjairól, valamint az információs társadalomban a szerzői és szomszédos jogok egyes vonatkozásainak összehangolásáról szóló 2001/29/EK irányelv módosításáról
+
+Az Európai Parlament és a Tanács 2017/1128 rendelete (2017. június 14.) az online tartalomszolgáltatásoknak a belső piacon való, határokon átnyúló hordozhatóságáról
+
+Az Európai Parlament és a Tanács 2012/28/EU irányelve (2012. október 25.) az árva művek egyes megengedett felhasználási módjairól
+
+Az Európai Parlament és a Tanács 2014/26/EU irányelve (2014. február 26.) a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről
+
+Az Európai Parlament és a Tanács 2011/77/EU irányelve (2011. szeptember 27.) a szerzői jog és egyes szomszédos jogok védelmi idejéről szóló 2006/116/EK irányelv módosításáról
+
+Az Európai Parlament és a Tanács 2009/24/EK irányelve a számítógépi programok jogi védelméről
+
+A Tanács 93/83/EGK irányelve a műholdas műsorsugárzásra és a vezeték útján történő továbbközvetítésre alkalmazandó szerzői jogra és a szerzői joggal kapcsolatos jogokra vonatkozó egyes szabályok összehangolásáról
+
+A Parlament és a Tanács 96/9/EK irányelve az adatbázisok jogi védelméről
+
+A Parlament és a Tanács 2001/29/EK irányelve az információs társadalommal kapcsolatos szerzői és szomszédos jogokról
+
+Az Európai Parlament és a Tanács 2001/84/EK irányelve (2001. szeptember 27.) az eredeti műalkotás szerzőjét megillető követő jogról
+
+Az Európai Parlament és a Tanács 2012/28/EU irányelve (2012. október 25.) az árva művek egyes megengedett felhasználási módjairól
+
+Az Európai Parlament és a Tanács 2004/48/EK irányelve a szellemi tulajdonjogok érvényesítéséről
+
+A Bizottság ajánlása (2005/737/EK)(2005. május 18.) a jogszerű online zeneszolgáltatás érdekében a szerzői és szomszédos jogok közös, határokon átnyúló kezeléséről
+
+A Bizottság ajánlása (2006/585/EK)(2006. augusztus 24.) a kulturális anyagok digitalizálásáról és online hozzáférhetőségéről, valamint a digitális megőrzésről
+
+Az Európai Parlament és a Tanács 2006/115/EK irányelve (2006. december 12.) a bérleti jogról és a haszonkölcsönzési jogról, valamint a szellemi tulajdon területén a szerzői joggal szomszédos bizonyos jogokról
+
+Az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12.) a szerzői jog és egyes szomszédos jogok védelmi idejéről
+
+Az Európai Parlament (2005/737/EC) 2007. március 13-i állásfoglalása a Bizottság 2005. október 18-i, a jogszerű online zeneszolgáltatás érdekében a szerzői és szomszédos jogok közös, határokon átnyúló kezeléséről szóló ajánlásáról
+
+ 
+
+### Nemzetközi jogszabályok
+
+A szellemi tulajdon világszervezetének létesítésére Stockholmban, 1967. július 14-én aláírt egyezmény
+(Kihirdette: 1970.évi 18.tvr. (részlet)
+
+Egyetemes Szerzői Jogi Egyezmény
+(Kihirdette az 1975. évi 3. törvényerejű rendelet)
+
+A szellemi tulajdon kereskedelemmel összefüggő kérdéseit szabályozó egyezmény (TRIPS Megállapodás)
+1998. évi IX. törvény az Általános Vám- és Kereskedelmi Egyezmény (GATT) keretében kialakított, a Kereskedelmi Világszervezetet létrehozó Marrakesh-i Egyezmény és mellékletének kihirdetéséről
+(Kihirdette az 1998. évi IX. törvény)
+
+Az irodalmi és a művészeti művek védelméről szóló Berni Egyezmény
+(Kihirdette az 1975. évi 4. törvényerejű rendelet)
+
+A hangfelvételek előállítóinak védelmére, hangfelvételeik engedély nélküli sokszorosítása ellen létrejött Genfi Egyezmény
+(Kihirdette az 1975. évi 18. törvényerejű rendelet)
+
+Az előadóművészek, a hangfelvétel-előállítók és a műsorsugárzó szervezetek védelméről szóló Római Egyezmény
+(Kihirdette az 1998. évi XLIV. törvény)
+
+WIPO Szerzői Jogi Szerződés
+(Kihirdette: 2004. évi XLIX. törvény)
+
+WIPO Előadásokról és a Hangfelvételekről szóló Szerződés
+(Kihirdette: 2004. évi XLIX. törvény)
 
 
 ### Adatvédelmi jogszabályok
