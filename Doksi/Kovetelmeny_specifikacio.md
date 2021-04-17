@@ -28,6 +28,13 @@ Ezt legegyszerűbben úgy tudjuk elérni, hogy stratégiákat, algoritmusokat al
 > - Litecoin
 ## Jelenlegi helyzet
 
+Manapság a kriptovaluta kereskedés nagyon népszerű téma miután a pár forintról induló bitcoin értéke elérte már a  18 millió forintot is. A kriptovaluta egy digitális valuta, amely nem köthető egyetlen hagyományos valutához vagy centralizált szervezethez sem. Nem áll tehát egyetlen bank, szövetségi rendszer vagy kormány tulajdonában sem, így független az eurótól, a dollártól, de még az ezüsttől és az aranytól is. A csalás megelőzése és a biztonságos bitcoin pénzkeresés érdekében a kriptoválutával történő tranzakciók egy ún. blokkláncban kerülnek digitálisan rögzítésre, ami a gerince és egyben a kulcsa is a kriptovaluta sikerének. A blokklánc a “papír könyvelés” digitális változata a tranzakciókról vagy nyugtákról.
+A tranzakciók egy szigorú visszaigazoló folyamaton mennek keresztül, így biztosítják, hogy csak valódi tranzakciókat adnak hozzá a blokklánchoz, az egyének számára pedig azt, hogy bevételt szerezhetnek az interneten kereskedés, befektetés, bányászat, vagy valuta vásárlás folyamán.
+
+Csak úgy, mint a hagyományos pénztárca, a kripto pénztárca is értéket tárol: de a coinjaid mellett egy saját privát kulcsot is hordoz, ennek segítségével vásárolhatsz és értékesíthetsz kriptovalutát. Ez tartja biztonságban a kriptovalutádat. A privát kulcs egy azonosító kártyához hasonlítható az egyedi sorozatszámával. Amikor vásárolsz vagy értékesítesz, a privát kulccsal adsz engedélyt a kriptovaluta mozgásra a saját kriptovaluta pénztárcád és az üzleti partnered között.
+
+Ugyanúgy, mint a fizikailag létező pénztárca, a digitális pénztárca is pontosan megmondja neked, hogy melyik kriptoból mennyi van benne, tárolhatod benne az újonnan szerzett coinokat és kifizethetsz másokat. 
+
 ## Vágyálomrendszer
 
 ## Megrendelői cél
