@@ -21,3 +21,13 @@ Alapvetően **két indikátor** fajtáról beszélhetünk.
 > - A másik típusa a piaci szélességet mérő indikátorok, melyek nem egy részvény árfolyam mozgását vizsgálják, hanem tőzsdén kereskedett összes részényt.
 
 Ha a legjobb indikátorokat használjuk a Swing kereskedéshez, az segíthet minket abban, hogy rendszerezzük a stratégia megközelítéseit, így nem azzal törődünk, hogy egy indikátor önmagában mit is mond nekünk. Az előkészület kulcsfontosságú a kereskedésnél.
+
+ ## Hosszabb távú stratégiák
+ 
+Alapvető stratégiai megoldások közül érdemes megemlíteni a trendkövető, a korrekciókat (“visszaütés”) meglovagoló vagy a kimondottan short irányú kereskedésre törekvő stratégiákat.
+
+Van, aki viszont csak szélsőértékek esetén nyit pozíciót (pl. történelmi szélsőértékek), igyekszik kerülni a kockázatos napi hullámuzásokat, csak “olyan szinteken száll be, ahol már valóban remélni lehet a trendfordulót.
+
+Sokan szokták alkalmazni a fokozatos pozíció építés módszerét. Ennek lényege, hogy amennyiben jó irányba nyitottunk pozíciót, akkor meghatározott szabály szerint további pozíciókat nyitunk, amíg a trend folytatódik – így növelve a nyereséget.
+
+Érdemes elgondolkozni azon is, hogy milyen fedezeti ügyleteket lehet alkalmazni a kockázat elkerülése érdekében. Ezek a megoldások jól beilleszthetőek a személyre szabott,  kiválasztott stratégiánkba. Egy dolgot ne feledjünk. Csak olyan stratégiát alkalmazzunk, amit demo programban megfelelő ideig teszteltünk, jól megismertünk és azonosulni tudunk vele.
