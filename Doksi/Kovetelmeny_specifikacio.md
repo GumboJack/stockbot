@@ -61,8 +61,27 @@ A nyereségrészesedési jog a hatályos magyar jogszabályok által nem ismert 
 
 <https://www.mnb.hu/sajtoszoba/sajtokozlemenyek/2020-evi-sajtokozlemenyek/kriptovaluta-nyeresegreszesedesi-jog-fokozott-befektetoi-kockazatok>
 
+
 ### Szerzői jogszabályok
+
+*A 2001. évi CVIII.törvény*  az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről
+
+*26/2010. (XII. 28.)* KIM rendelet a Szellemi Tulajdon Nemzeti Hivatala által vezetett önkéntes műnyilvántartás részletes szabálya
+
+*2016. évi XCIII. törvény* a szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről
+
+*1999. évi LXXVI. törvény* a szerzői jogról
+
+*2014. évi XXII. törvény* a reklámadóról
+
+
+
 ### Adatvédelmi jogszabályok
+
+Az Európai Parlament és a Tanács (EU) *2016/679 *rendelete a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről
+
+*2011. évi CXII.* törvény az információs önrendelkezési jogról és az információszabadságról
+  
 
 ## Jelenlegi üzleti folyamatok modellje
 
