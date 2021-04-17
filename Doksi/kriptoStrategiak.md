@@ -17,6 +17,8 @@ Az egyik legnépszerűbb technika a Swing Trade-nél az indikátorok használat�
 
 ### Indikátorok, Indikátorok fajtái?
 
+A legtöbb stratégia abban különbözik egymástól, hogy milyen alakzatokat, indikátorokat használ valaki a kereskedés során. Ezekre utaló elnevezésekkel szokták a stratégiát is emlegetni, főleg indikátorokat találunk az elnevezések között.
+
 Alapvetően **két indikátor** fajtáról beszélhetünk. 
 > - Az egyik indikátor fajta a technikai elemzők által széles körben használt indikátorok,melyek a részvény árfolyamát veszik alapul a számításuk soran. A lényege tehét ezeknek az indikátoroknak, hogy egyetlen részvény árfolyamáról adnak információt. 
 
