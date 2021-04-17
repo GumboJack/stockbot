@@ -9,12 +9,11 @@
 # Hardware ismertető
 
 A Raspberry Pi egy bankkártya méretű, egyetlen áramköri lapra/kártyára integrált BCM2835 alapú egykártyás számítógép, amelyet az Egyesült Királyságban fejlesztettek oktatási célokra. A gép különböző Linux-disztribúciókkal működtethető, illetve elérhető egy RISC OS verzió is. Az eredeti két változat (A és B) kiadása óta már több továbbfejlesztése is kiadásra került. Az eredeti A változat nem rendelkezik Ethernet csatolóval, csak egy USB portja volt és a rendszer memóriája 256 MB. A B modell 2 db USB porttal, 512 MB memóriával és integrált Ethernet csatolóval rendelkezett. A hivatalosan ajánlott operációs rendszer a laphoz a Raspbian, ami a Debian Linux kifejezetten Raspberry Pi-re optimalizált változata. A Sony cégnek a welsi Pencoedban működő üzeme gyártja. Következő modellje a Raspberry Pi 4 Model B, amely 2019. június 24-én jelent meg. Ez 1,5 GHz-es, 64 bites, négymagos ARM A72 processzorral, integrált WiFi-vel és Bluetooth 5-tel, USB 3 csatlakozóval és 4K-s dupla HDMI monitor csatlakozóval rendelkezik. A Pi 4 az első modell, amely különböző nagyságú RAM-mal szerelve, háromféle változatban (1, 2 és 4 GB) volt elérhető a kiadása idején. Az 1 GB-os változatot később kivezették a piacról. 2020. május 28-án megjelent a 8 GB-os verzió.
-![RPi](https://www.raspberrypi.org/homepage-9df4b/static/md-82e922d180736055661b2b9df176700c.pngg "RPi")
-
+<img src="https://www.piday.org/wp-content/uploads/2018/09/word-image-2.png" alt="Bitcoin"/>
 # Rendszer install
 
-Telepítsük a Raspberry Pi Imager legújabb verzióját. Ez letölthető innen: [link]https://www.raspberrypi.org/software/
-![RPiImager](https://www.raspberrypi.org/homepage-9df4b/static/md-82e922d180736055661b2b9df176700c.pngg "RPiImager")
+Telepítsük a Raspberry Pi Imager legújabb verzióját. Ez letölthető innen: [Raspberry Pi Imager letöltése](https://www.raspberrypi.org/software/)
+<img src="https://www.raspberrypi.org/homepage-9df4b/static/md-82e922d180736055661b2b9df176700c.png" alt="Bitcoin"/>
 Megfelelő rendszer és sd kártya kiválasztása után autómatikusan formáz és megírja a bootolható adathordozót. Esetünkben: "Raspberry Pi OS Lite" mivel nincs szükség asztali környezetre.
 
 # Egyéb szoftverek
@@ -117,4 +116,4 @@ Majd újraindítjuk a szolgáltatást
     sudo systemctl status tomcat
 ~~~
 
-Ezután a [link]http://localhost:8080 keresztül ellenőrizhetjük hogy elindult-e a szolgáltatás
+Ezután a [http://localhost:8080](http://localhost:8080) keresztül ellenőrizhetjük hogy elindult-e a szolgáltatás
