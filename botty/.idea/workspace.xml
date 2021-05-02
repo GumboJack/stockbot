@@ -10,24 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="698349d8-54d0-4230-bde6-1f24ffc0062a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca6c7294c5702e6e6f1ea358ae92ffd4824bbf91" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da5c39e7986d033147b7824210b59d5eb8aac384" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-connector/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-connector/src/main/java/api/Lunar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-connector/src/main/java/api/LunarClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-connector/src/main/resources/lunarcrush-api-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PropReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/botty.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/database/src/main/java/manager/DatabaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/database/src/main/java/manager/DatabaseManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/target/classes/helper/CoinTableHelper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/target/classes/helper/CoinTableHelper$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/target/classes/helper/CoinTableHelper$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/target/classes/helper/CoinTableHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/target/classes/manager/DatabaseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/database/target/classes/manager/DatabaseManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/helper/CoinTableHelper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/helper/CoinTableHelper$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/helper/CoinTableHelper$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/helper/CoinTableHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/manager/DatabaseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/manager/DatabaseManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/src/main/java/servlets/StartupServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/java/servlets/StartupServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +35,7 @@
       <list>
         <option value="Tag Library Descriptor" />
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -86,6 +79,17 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 8.5.57" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.57" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/webapp_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -188,7 +192,7 @@
       <workItem from="1619948117656" duration="62000" />
       <workItem from="1619948217081" duration="14000" />
       <workItem from="1619948674014" duration="48000" />
-      <workItem from="1619948906085" duration="8860000" />
+      <workItem from="1619948906085" duration="13083000" />
     </task>
     <servers />
   </component>

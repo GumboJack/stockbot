@@ -13,6 +13,7 @@ import java.util.List;
 public class StartupServlet extends HttpServlet{
     @Override
     public void init() throws ServletException {
+        /*
         DatabaseManager dbManager = DatabaseManager.getInstance("org.hibernate.cryptoconfig");
         Coin btc = new Coin("BTC", "Bitcoin");
         Coin eth = new Coin("ETH", "Ethereum");
@@ -22,5 +23,8 @@ public class StartupServlet extends HttpServlet{
         List<Coin> coinList = new ArrayList<Coin>();
         coinList.add(btc);
         dbManager.getData(coinList);
+         */
+
+
     }
 }

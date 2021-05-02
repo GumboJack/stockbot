@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="webapp" />
         <module name="database" />
+        <module name="api-connector" />
       </profile>
     </annotationProcessing>
   </component>

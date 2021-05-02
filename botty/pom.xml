@@ -11,6 +11,7 @@
     <modules>
         <module>webapp</module>
         <module>database</module>
+        <module>api-connector</module>
     </modules>
 
     <properties>
