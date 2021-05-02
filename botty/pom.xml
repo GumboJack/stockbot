@@ -4,15 +4,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>hu.uni-eszterhazy.rft2.groupB</groupId>
+    <groupId>hu.uni-eszterhazy.plab.groupb</groupId>
     <artifactId>botty</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>api-connector</module>
-        <module>databse</module>
-        <module>crypto-web</module>
+        <module>webapp</module>
+        <module>database</module>
     </modules>
 
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
 
 </project>
