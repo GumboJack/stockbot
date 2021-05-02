@@ -7,6 +7,8 @@ import manager.DatabaseManager;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import java.sql.Timestamp;
+import java.util.ArrayList;
+import java.util.List;
 
 public class StartupServlet extends HttpServlet{
     @Override
@@ -16,6 +18,9 @@ public class StartupServlet extends HttpServlet{
         Coin eth = new Coin("ETH", "Ethereum");
         dbManager.addNewCoin(btc);
         dbManager.addNewCoin(eth);
-        dbManager.insertData(btc, new Data(new Timestamp(System.currentTimeMillis()), 53412.11f));
+        dbManager.insertData(btc, new Data(new Timestamp(System.currentTimeMillis()), 53442.11f));
+        List<Coin> coinList = new ArrayList<Coin>();
+        coinList.add(btc);
+        dbManager.getData(coinList);
     }
 }

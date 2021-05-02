@@ -1,16 +1,0 @@
-
-9
-java:S26297"$Invoke method(s) only conditionally.(ÝŒò
-?
-java:S2629P"$Invoke method(s) only conditionally.(êŸ¤ìúÿÿÿÿ
-:
-java:S2629m"$Invoke method(s) only conditionally.(„³‰Ù
-F
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
-E
-java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
-U
-java:S6213\":Rename this variable to not match a restricted identifier.(ÃäË½ùÿÿÿÿ
-V	java:S125d"<This block of commented-out lines of code should be removed.(þºªçøÿÿÿÿ
-D
-java:S1068".Remove this unused "connection" private field.(éä´É

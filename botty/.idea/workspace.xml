@@ -10,129 +10,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="698349d8-54d0-4230-bde6-1f24ffc0062a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_clojure_clojure_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_clojure_java_jdbc_0_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_postgresql_postgresql_42_2_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/webapp_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/botty.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/src/main/java/entities/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/src/main/java/entities/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/src/main/java/entities/ScopeCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/src/main/java/manager/DatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/src/main/java/servlets/StartupServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/webapp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_8_4_1_jre8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mariadb_jdbc_mariadb_java_client_2_7_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_experimental_spring_native_0_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aop_5_3_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_beans_5_3_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_context_5_3_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_core_5_3_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_expression_5_3_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_jcl_5_3_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_test_5_3_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/stockbot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/stockbot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-connector/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-connector/src/main/java/x.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crypto-web/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crypto-web/src/main/java/servlets/StartupServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crypto-web/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crypto-web/web/charts.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crypto-web/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/databse/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/databse/src/main/java/DatabaseManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/databse/src/main/java/entities/ScopeCoins.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/databse/src/main/java/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/crypto_web_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/crypto_web_war_exploded/WEB-INF/classes/servlets/StartupServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/crypto_web_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/crypto_web_war_exploded/charts.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/crypto_web_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MainApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/botty/BottyApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.dev.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/crypto/botty/BottyApplicationTests.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca6c7294c5702e6e6f1ea358ae92ffd4824bbf91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da5c39e7986d033147b7824210b59d5eb8aac384" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/src/main/java/manager/DatabaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/database/src/main/java/manager/DatabaseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/target/classes/helper/CoinTableHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/target/classes/helper/CoinTableHelper$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/target/classes/helper/CoinTableHelper$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/target/classes/helper/CoinTableHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/target/classes/manager/DatabaseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/database/target/classes/manager/DatabaseManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/helper/CoinTableHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/helper/CoinTableHelper$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/helper/CoinTableHelper$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/helper/CoinTableHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/manager/DatabaseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/webapp_war_exploded/WEB-INF/classes/manager/DatabaseManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/main/java/servlets/StartupServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/java/servlets/StartupServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,6 +188,7 @@
       <workItem from="1619948117656" duration="62000" />
       <workItem from="1619948217081" duration="14000" />
       <workItem from="1619948674014" duration="48000" />
+      <workItem from="1619948906085" duration="8860000" />
     </task>
     <servers />
   </component>
