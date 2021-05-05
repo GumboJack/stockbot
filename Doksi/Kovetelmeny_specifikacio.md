@@ -37,6 +37,8 @@ Ugyanúgy, mint a fizikailag létező pénztárca, a digitális pénztárca is p
 
 ## Vágyálomrendszer
 
+A cél egy olyan program, ami az általunk meghatározott stratégiák használatával profitot termel a kiválasztott kriptovaluták esetében. A rendszer figyelje a tendenciákat és a valuta stabilitását, illetve további egyéni, általunk meghatározott szempontokat. Nagy cégek részvény befektetéseit is érdemes monitoroznia a végleges programnak, hogy ez által is pontosabb legyen a döntés.
+
 ## Megrendelői cél
 
 ## Megrendelői követelmény
