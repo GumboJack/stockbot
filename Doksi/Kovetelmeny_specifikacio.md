@@ -3,9 +3,7 @@
 1. [Bevezetés](#Bevezetés)
 1. [Jelenlegi helyzet](#Jelenlegi-helyzet)
 1. [Vágyálomrendszer](#Vágyálomrendszer)
-1. [Megrendelői cél](#Megrendelői-cél)
 1. [Megrendelői követelmény](#Megrendelői-követelmény)
-1. [Funkcionális követelmények](#Funkcionális-követelmények)
 1. [Rendszerre vonatkozó törvények, szabványok, ajánlások](#Rendszerre-vonatkozó-törvények,-szabványok,-ajánlások)
     1. [Szerzői jogszabályok](#Szerzői-jogszabályok)
     1. [Adatvédelmi jogszabályok](#Adatvédelmi-jogszabályok)
@@ -26,6 +24,7 @@ Ezt legegyszerűbben úgy tudjuk elérni, hogy stratégiákat, algoritmusokat al
 > - Binance coin
 > - Cardano
 > - Litecoin
+
 ## Jelenlegi helyzet
 
 Manapság a kriptovaluta kereskedés nagyon népszerű téma miután a pár forintról induló bitcoin értéke elérte már a  18 millió forintot is. A kriptovaluta egy digitális valuta, amely nem köthető egyetlen hagyományos valutához vagy centralizált szervezethez sem. Nem áll tehát egyetlen bank, szövetségi rendszer vagy kormány tulajdonában sem, így független az eurótól, a dollártól, de még az ezüsttől és az aranytól is. A csalás megelőzése és a biztonságos bitcoin pénzkeresés érdekében a kriptoválutával történő tranzakciók egy ún. blokkláncban kerülnek digitálisan rögzítésre, ami a gerince és egyben a kulcsa is a kriptovaluta sikerének. A blokklánc a “papír könyvelés” digitális változata a tranzakciókról vagy nyugtákról.
@@ -39,11 +38,7 @@ Ugyanúgy, mint a fizikailag létező pénztárca, a digitális pénztárca is p
 
 A cél egy olyan program, ami az általunk meghatározott stratégiák használatával profitot termel a kiválasztott kriptovaluták esetében. A rendszer figyelje a tendenciákat és a valuta stabilitását, illetve további egyéni, általunk meghatározott szempontokat. Nagy cégek részvény befektetéseit is érdemes monitoroznia a végleges programnak, hogy ez által is pontosabb legyen a döntés.
 
-## Megrendelői cél
-
 ## Megrendelői követelmény
-
-## Funkcionális követelmények
 
 ## Rendszerre vonatkozó törvények, szabványok, ajánlások
 
@@ -62,7 +57,6 @@ A befektetők kültagként vagy kisebbségi tulajdonosként szerezhetnek nyeres�
 A nyereségrészesedési jog a hatályos magyar jogszabályok által nem ismert jogintézmény. Előfordulhat, hogy a szervező cég e tevékenység örve alatt ténylegesen visszafizetési kötelezettség vállalása mellett üzletszerűen betéteket vagy más visszafizetendő pénzeszközöket gyűjt a befektetőktől. Mivel ez az MNB engedélyéhez kötött, a jegybank ilyen esetekben piacfelügyeleti intézkedést hoz a jogosulatlan pénzügyi szolgáltatóval szemben. További részletek az MNB honlapjának megújult figyelemfelhívó aloldalán olvashatók.
 
 <https://www.mnb.hu/sajtoszoba/sajtokozlemenyek/2020-evi-sajtokozlemenyek/kriptovaluta-nyeresegreszesedesi-jog-fokozott-befektetoi-kockazatok>
-
 
 ### Szerzői jogszabályok
 
@@ -88,8 +82,6 @@ A *2013. évi V. törvény* a Polgári törvénykönyvről teljes szövege
 
 Szellemi tulajdonjogok megsértése miatt indított perben hozott határozat végrehajtása - a bírósági végrehajtásról szóló *1994. évi LIII. törvény 184/A. §-a*
 
- 
-
 **Európai uniós jogszabályok**
 
 Az Európai Parlament és a Tanács 2017/1128 rendelete (2017. június 14.) az online tartalomszolgáltatásoknak a belső piacon való, határokon átnyúló hordozhatóságáról
@@ -111,8 +103,6 @@ Az Európai Parlament és a Tanács 2012/28/EU irányelve (2012. október 25.) a
 Az Európai Parlament és a Tanács 2004/48/EK irányelve a szellemi tulajdonjogok érvényesítéséről
 
 Az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12.) a szerzői jog és egyes szomszédos jogok védelmi idejéről
-
- 
 
 **Nemzetközi jogszabályok**
 
