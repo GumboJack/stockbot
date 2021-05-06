@@ -33,6 +33,6 @@ A rendszer üzemeltetője az adminisztrátor, aki a bot visszajelzései alapján
 ## Képernyőtervek
 
 ## Forgatókönyvek
-.
+A bot alapesetben konzol commandok képében ad visszajelzést a működéséről. Jelzi ha vett, vagy ha eladott valutát, illetve megadott időintervallum elteltével jelez az ez idő alatt végbe ment tranzakciókról. Ha ezek mérlege negativ, akkor figyelmeztet, hogy a jelenleg használt stratégiát érdemes felülvizsgálni.
 ## Fogalomszótár
 .
