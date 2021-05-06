@@ -1,13 +1,14 @@
 # Funkcionális specifikáció
 
-1. [Bevezetés](#Bevezetés)
-1. [Célok](#Célok)
-1. [Jelenlegi helyzet](#Jelenlegi-helyzet)
-1. [Követelménylista](#Követelménylista)
-1. [Használati esetek](#Használati-esetek)
-1. [Képernyőtervek](#Képernyőtervek)
-1. [Forgatókönyvek](#Forgatókönyvek)
-1. [Fogalomszótár](#Fogalomszótár)
+- [Funkcionális specifikáció](#funkcionális-specifikáció)
+  - [Bevezetés](#bevezetés)
+  - [Célok](#célok)
+  - [Jelenlegi helyzet](#jelenlegi-helyzet)
+  - [Követelménylista](#követelménylista)
+  - [Használati esetek](#használati-esetek)
+  - [Képernyőtervek](#képernyőtervek)
+  - [Forgatókönyvek](#forgatókönyvek)
+  - [Fogalomszótár](#fogalomszótár)
 
 
 ## Bevezetés
@@ -19,9 +20,19 @@
 ## Követelménylista
 
 ## Használati esetek
+A rendszer használata automatikus. A megadott stratégia alapján indulásától kezdve folyamatos API hivások segitségével monitorozza az éppen aktuális kripto valuta árfolyam mozgásokat és a megadott stratégia alapján önmagától végzi a kereskedést.
 
+Képesnek kell lennie:
+- valutát eladni
+- valutát venni
+- reagálni az árfolyam változásaira
+- ezáltal (ha a megadott stratégia helyes) képesnek kell lennie felismernie ha az éppen használt valutával való kereskedés nem jövedelmező
+- nem deficittel dolgozni
+
+A rendszer üzemeltetője az adminisztrátor, aki a bot visszajelzései alapján képes módositani az éppen használt stratégiát, vagy lehetősége van újat megadni.
 ## Képernyőtervek
 
 ## Forgatókönyvek
-
+.
 ## Fogalomszótár
+.
