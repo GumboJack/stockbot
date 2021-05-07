@@ -18,8 +18,14 @@
     - [6.3 Fizikai alrendszerek](#63-fizikai-alrendszerek)
     - [6.4 Fejlesztői eszközök](#64-fejlesztői-eszközök)
   - [7. Architekturális terv](#7-architekturális-terv)
+    - [7.1 Az alkalmazás rétegei, fő komponensei, ezek kapcsolatai](#71-az-alkalmazás-rétegei-fő-komponensei-ezek-kapcsolatai)
+      - [Lunarcrush API](#lunarcrush-api)
+      - [Tomcat server](#tomcat-server)
+      - [PostgreSQL adatbázis](#postgresql-adatbázis)
+      - [Frontend](#frontend)
+    - [7.3 Változások kezelése](#73-változások-kezelése)
   - [8. Adatbázis terv](#8-adatbázis-terv)
-- [9. Implementációs terv:](#9-implementációs-terv)
+  - [9. Implementációs terv:](#9-implementációs-terv)
 
 ## 1. A rendszer célja
 A projekt célja egy olyan kereskedő bot megalkotása, aminek segítségével profitot termelhetünk minimális kockázattal.
@@ -45,8 +51,8 @@ Frontend:
 - Szelei Attila
 - Eszényi Tamás
 - Bakos Martin
-Felhasználói felület,
 
+Felhasználói felület,
 
 Backend:
 - Lőrincz Marcell
@@ -54,8 +60,8 @@ Backend:
 - Szelei Attila
 - Eszényi Tamás
 - Bakos Martin
-Adatbázis kapcsolat, API hivás
 
+Adatbázis kapcsolat, API hivás
 
 Tesztelés:
 - Lőrincz Marcell
@@ -63,8 +69,8 @@ Tesztelés:
 - Szelei Attila
 - Eszényi Tamás
 - Bakos Martin
-Esetleges hibák detektálása, kijavítása
 
+Esetleges hibák detektálása, kijavítása
 
 ### 2.3 Ütemterv
 ||Funkció / Story | Feladat / Task | Prioritás | Becslés | Aktuális becslés | Elteltidő | Hátralévő idő ||
@@ -115,7 +121,19 @@ Szoftverkomponensek vásárlása nem szükséges.
 - IntelliJ IDEA
 - PG Admin
 ## 7. Architekturális terv
+ Egy külső API segitségével adatokat nyerünk a követett kriptovaluták árfolyam mozgásairól. Ezt egy adatbázisban tároljuk, ez alapján a bot kereskedik a szóban forgó valutákkal. A tárolt adatokat webes felületen megjeleniti, az árfolyam változások könnyű nyomonkövethetősége érdekében.
+### 7.1 Az alkalmazás rétegei, fő komponensei, ezek kapcsolatai
+#### Lunarcrush API
+Ez egy külső API, ami bárkinek ingyenesen elérhető, és a legfontosabb kriptovaluták árfolyamairól lehet real time adatokat lekérni. Az árfolyam változásokon túl elérhetőek például olyan adatok is, mint hogy hány twitter/reddit emlitése volt adott időszakban a keresett kriptovalutának, ezáltal összetett döntések meghozatalára is alkalmas mesterséges intelligenciát hasnzáló bot kiszolgálására is alkalmas lehet.
+#### Tomcat server
+Az Apache Tomcat egy tisztán Java nyelven készült webszerver, amely implementálja a Sun-féle Java Servlet és a JavaServer Pages specifikációkat. E specifikációkat támogató webszervereket szokás a servlet container, a servlet engine illetve a web engine összetételekkel is illetni. Mivel tisztán java nyelvet használ a webszerver, igy a bot funkcióit a backendbe épitve meg tudjuk valósitani. Ez az egész alkalmazás központja, itt történik a kommunikáció a külső API-al, az adatbázissal és a frontendel is.
+#### PostgreSQL adatbázis
+Ez egy ingyenes és nyilt forráskodú relációs adatbázis, ami stabiul és skálázható, és rendkivül gördulenkenyen mukodik egyutt a tomcat serverrel.
+#### Frontend
+A frontend JavaServer Pages (röviden JSP) felhasználásával lett kivitelezve. E technológia segítségével a szoftverfejlesztő dinamikusan tud generálni HTML, XML vagy egyéb dokumentumokat HTTP kérésekre reagálva. A JSP tekinthető a servlet réteg feletti absztrakciós szintnek. A JSP oldalból java servlet forráskód generálódik
+### 7.3 Változások kezelése
+Változás esetén mind a szerver mind a kliens oldalon szükséges módosítani a szoftvert annak érdekében, hogy továbbra is együtt tudjon működni a rendszer. Ha a változás nem érinti a szerver-kliens interfészt, például csak a felhasználói felületet kívánjuk módosítani, elegendő a kliens kódját változtatni.
 
 ## 8. Adatbázis terv
 
-# 9. Implementációs terv:
+## 9. Implementációs terv:
