@@ -117,5 +117,16 @@ Szoftverkomponensek vásárlása nem szükséges.
 ## 7. Architekturális terv
 
 ## 8. Adatbázis terv
+**Table** : ScopesCoin - *Amiket a bot megfigyel crypto valuták*
+
+    mezők: 
+      id(kulcs),
+      név 
+**Table** : CoinName_data - *Amikor bekerül egy coin az adatbáziba akkor egyből csinál egy táblát a röviditett nevével_data.*
+
+    mezők:
+      id(key),
+      timestamp,
+      price: $
 
 # 9. Implementációs terv:
