@@ -37,6 +37,7 @@ Képesnek kell lennie:
 - reagálni az árfolyam változásaira
 - ezáltal (ha a megadott stratégia helyes) képesnek kell lennie felismernie ha az éppen használt valutával való kereskedés nem jövedelmező
 - nem deficittel dolgozni
+- az aktualis arfolyam mozgasokat megjeleniti webes felületen
 
 A rendszer üzemeltetője az adminisztrátor, aki a bot visszajelzései alapján képes módosítani az éppen használt stratégiát, vagy lehetősége van újat megadni.
 
@@ -45,6 +46,7 @@ A rendszer üzemeltetője az adminisztrátor, aki a bot visszajelzései alapján
 ## Forgatókönyvek
 
 A bot alapesetben konzol commandok képében ad visszajelzést a működéséről. Jelzi ha vett, vagy ha eladott valutát, illetve megadott időintervallum elteltével jelez az ez idő alatt végbe ment tranzakciókról. Ha ezek mérlege negatív, akkor figyelmeztet, hogy a jelenleg használt stratégiát érdemes felülvizsgálni.
+A bot képes megjeleniteni egy webes felületen az adatbázisban tárolt adatokat, hogy könnyebben átlátható legyen az adattömeg, illetve annak változásai. Ennek segitségével könnyebben módositható a használt stratégia.
 
 ## Fogalomszótár
 
