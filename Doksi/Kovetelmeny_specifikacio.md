@@ -40,6 +40,11 @@ A cél egy olyan program, ami az általunk meghatározott stratégiák használa
 
 ## Megrendelői követelmény
 
+- A program automatikusan működjön.
+- Tudjon valutát eladni és venni.
+- Figyelje az árfolyam változásokat.
+- Kövessen egy vagy több stratégiát.
+
 ## Rendszerre vonatkozó törvények, szabványok, ajánlások
 
 Budapest, 2020. február 14. – Az MNB nem felügyeli a kriptovalutákhoz kötődő kereskedelmi ügyleteket, a – magyar jogrendben ismeretlen – nyereségrészesedési jog forgalmazása pedig akár jogosulatlan betét/pénzeszköz gyűjtésének minősülhet. Ezen eszközök árfolyama kiszámíthatatlan, hiányoznak a károsultakat védő garanciaintézmények, s bűncselekmények elkövetésére is felhasználhatják őket. Átlagos pénzügyi ismeretekkel rendelkező fogyasztóknak kockázatos ezekbe fektetni.
