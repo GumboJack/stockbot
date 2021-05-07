@@ -7,6 +7,10 @@
     - [2.3 Ütemterv](#23-ütemterv)
     - [2.4 Mérföldkövek](#24-mérföldkövek)
   - [3. Üzleti folyamatok modellje](#3-üzleti-folyamatok-modellje)
+    - [3.1 Üzleti szereplők](#31-Üzleti-szereplők)
+    - [3.2 Üzleti folyamatok](#32-Üzleti-folyamatok)
+    - [3.3 Üzleti entitások](#33-Üzleti-entitások)
+ 
   - [4. Követelmények](#4-követelmények)
     - [4.1 Funkcionális követelmények](#41-funkcionális-követelmények)
     - [4.2 Nemfunkcionális követelmények](#42-nemfunkcionális-követelmények)
@@ -69,15 +73,16 @@ Esetleges hibák detektálása, kijavítása
 ### 2.3 Ütemterv
 ||Funkció / Story | Feladat / Task | Prioritás | Becslés | Aktuális becslés | Elteltidő | Hátralévő idő ||
 |-|---------------|----------------|-----------|---------|------------------|-----------|---------------|-|
-||Követelmény specifikáció|        |         0 |      6  |               6  |        6  |             0 ||
-||Funkcionális specifikáció|       |         0 |      6  |               5  |        6  |             0 ||
-||Rendszerterv|                    |           |      11 |               11 |         12|             2 ||
-||Adattárolás|Adatmodell megtervezése|       0 |       3 |                4 |         4 |             4 ||
-||Website|Adatbázis létrehozása|             2 |       7 |                6 |         0 |             5 ||
-||Adattárolás|Hibernate|1 |  1 |                1 |         0 |             1 ||
-||API hívás |LUNARCRUSH |1 |  1 |                1 |         0 |             1 ||
-||Website|Képernyőtervek elkészítése|        2 |       8 |                3 |         0 |             8 ||
-||Program|Tesztelés|                         2 |      16 |               11 |         0 |            16 ||
+||Követelmény specifikáció|        |         1 |      9  |               6  |        9  |             0 ||
+||Funkcionális specifikáció|       |         1 |      8  |               6  |        8  |             0 ||
+||Rendszerterv|                    |         1 |      11 |               8 |         10|             1 ||
+||Webszerver|apache2 TOMCAT impl|       1 |       3 |                4 |         4 |             0 ||
+||Adattárolás|Adatmodell megtervezése|       1 |       1 |                1 |         1 |             0 ||
+||Adattárolás|PostgreSQL|       1 |       2 |                4 |         3 |             1 ||
+||Adatbázis kapcsolat| Hibernate |             1 |       3 |                5 |         5 |             0 ||
+||API hívás |LUNARCRUSH |1 |  3 |                3 |         0 |             3 ||
+||Website|Képernyőtervek elkészítése|        2 |       8 |                5 |         0 |             8 ||
+||Program|Tesztelés|                         2 |      16 |               11 |         0 |            11 ||
 
 ### 2.4 Mérföldkövek
 
@@ -85,6 +90,23 @@ Esetleges hibák detektálása, kijavítása
 - Az elkészült szoftver átadása
 
 ## 3. Üzleti folyamatok modellje
+### 3.1 Üzleti szereplők
+A rendszert egy user fogja futtatni ahol egy kriptovaluta kereskedő bot fogja adni/venni a valutákat, bizonyos stratégiák szerint.
+### 3.2 Üzleti folyamatok
+A fejlesztői környezet IntelliJ IDEA, amiben történik az **API** hivás. Lunarcrush API használunk.
+- A LunarCRUSH egy közösségi figyelő platform, amely segít a kriptovaluta   befektetőknek megérteni a több mint 2000 kriptovaluta valódi értékét.
+
+**Adatbázis** az adatokat PostgreSQL-ben tároljuk hibernate segítségével.
+Minden egyes új kriptovalutához külön tábla generálódik (pl. Bitcoin_data). 
+
+-   A Hibernate egy objektum-relációs leképezést (ORM) megvalósító programkönyvtár Java platformra (a Hibernate-nek létezik egy .NET platformra szánt verziója is NHibernate néven). Segítségével osztályokat és a relációs adatbázisok tábláit tudjuk egymásba leképezni, az adatbázisban lévő rekordokat objektumokként kezelhetjük, és az objektumainkat egyszerűen tárolhatjuk állapotmegőrző módon adattáblákban. A Hibernate egy adatlekérdező nyelvet is biztosít (HQL - Hibernate Query Language), melynek segítségével adatbázis-kezelő rendszerek között hordozható lekérdezéseket írhatunk (ugyanakkor támogatja a natív SQL lekérdezések írását is)
+
+Tomcat **Webszervert** használunk. 
+-   Az Apache Tomcat egy tisztán Java nyelven készült webszerver, amely implementálja a Sun-féle Java Servlet és a JavaServer Pages specifikációkat
+ 
+
+### 3.3 Üzleti entitások 
+-   Kriptovaluta
 
 
 ## 4. Követelmények
