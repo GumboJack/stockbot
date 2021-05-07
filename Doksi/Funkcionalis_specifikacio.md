@@ -1,27 +1,41 @@
 # Funkcionális specifikáció
 
-1. [Bevezetés](#Bevezetés)
-1. [Célok](#Célok)
-1. [Jelenlegi helyzet](#Jelenlegi-helyzet)
-1. [Követelménylista](#Követelménylista)
-1. [Használati esetek](#Használati-esetek)
-1. [Képernyőtervek](#Képernyőtervek)
-1. [Forgatókönyvek](#Forgatókönyvek)
-1. [Fogalomszótár](#Fogalomszótár)
+- [Funkcionális specifikáció](#funkcionális-specifikáció)
+  - [Célok](#célok)
+  - [Követelménylista](#követelménylista)
+  - [Használati esetek](#használati-esetek)
+  - [Képernyőtervek](#képernyőtervek)
+  - [Forgatókönyvek](#forgatókönyvek)
+  - [Fogalomszótár](#fogalomszótár)
 
-
-## Bevezetés
 
 ## Célok
 
-## Jelenlegi helyzet
 
 ## Követelménylista
 
+
 ## Használati esetek
+
+A rendszer használata automatikus. A megadott stratégia alapján indulásától kezdve folyamatos API hívások segítségével monitorozza az éppen aktuális kripto valuta árfolyam mozgásokat és a megadott stratégia alapján önmagától végzi a kereskedést.
+
+Képesnek kell lennie:
+- valutát eladni
+- valutát venni
+- reagálni az árfolyam változásaira
+- ezáltal (ha a megadott stratégia helyes) képesnek kell lennie felismernie ha az éppen használt valutával való kereskedés nem jövedelmező
+- nem deficittel dolgozni
+
+A rendszer üzemeltetője az adminisztrátor, aki a bot visszajelzései alapján képes módosítani az éppen használt stratégiát, vagy lehetősége van újat megadni.
 
 ## Képernyőtervek
 
 ## Forgatókönyvek
 
+A bot alapesetben konzol commandok képében ad visszajelzést a működéséről. Jelzi ha vett, vagy ha eladott valutát, illetve megadott időintervallum elteltével jelez az ez idő alatt végbe ment tranzakciókról. Ha ezek mérlege negatív, akkor figyelmeztet, hogy a jelenleg használt stratégiát érdemes felülvizsgálni.
+
 ## Fogalomszótár
+
+- Kriptovaluta: A kriptovaluta olyan digitális pénz, aminél titkosítást használnak a fizetések biztonságossága érdekében. A legtöbb kriptovaluta decentralizált, ami azt jelenti, hogy nem egy központi bank vagy cég működteti, hanem a felhasználók számítógépein elosztva üzemel. A legismertebb kriptovaluta a Bitcoin.
+- Kereskedő bot: A kereskedő bot egy olyan szoftveres program, amely közvetlenül kapcsolódik a pénzügyi tőzsdékhez és a felhasználó nevében helyeznek el eladási vagy vásárlási megrendeléseket a piaci adatok értelmezésének függvényében.
+- API: Az API alatt egy olyan programozási interfészt, programozási felületet és annak részletes dokumentációját értjük, amelynek segítségével egy rendszer egy másik programhoz csatlakozhat. Ennek révén a másik programrendszer szolgáltatási használhatóak, anélkül, hogy a program belső részleteit ismerni kellene.
