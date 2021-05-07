@@ -36,4 +36,5 @@ A bot alapesetben konzol commandok képében ad visszajelzést a működésérő
 
 ## Fogalomszótár
 
-.
+- Kriptovaluta: A kriptovaluta olyan digitális pénz, aminél titkosítást használnak a fizetések biztonságossága érdekében. A legtöbb kriptovaluta decentralizált, ami azt jelenti, hogy nem egy központi bank vagy cég működteti, hanem a felhasználók számítógépein elosztva üzemel. A legismertebb kriptovaluta a Bitcoin.
+- Kereskedő bot: A kereskedő bot egy olyan szoftveres program, amely közvetlenül kapcsolódik a pénzügyi tőzsdékhez és a felhasználó nevében helyeznek el eladási vagy vásárlási megrendeléseket a piaci adatok értelmezésének függvényében.
