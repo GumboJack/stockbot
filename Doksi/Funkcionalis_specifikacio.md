@@ -11,6 +11,18 @@
 
 ## Célok
 
+A projekt célja egy olyan kereskedő bot megalkotása, aminek segítségével profitot termelhetünk minimális kockázattal.
+
+Ezt legegyszerűbben úgy tudjuk elérni, hogy stratégiákat, algoritmusokat alkalmazunk amiket a programunkban implementálunk. Emellett fontos, hogy az általunk kiválasztott kriptovaluta megfeleljen különböző szempontoknak. A valutának  stabilnak kell lennie és fejlődő tendenciát kell hogy mutasson. Továbbá érdemes figyelni azt, hogy az egyes cégek mennyi és milyen részvényekbe fektetik bele a pénzüket. Egyre népszerűbbek azok a "centes" cryptovaluták amiknek az értékük úgy emelkedik minél többen "Tweetelik", és "hypolják" egyes platformokon.  Manapság elég sokan arany és ezüst helyett a pénzüket inkább kriptorészvénybe fektetik. Mint például:
+
+> - Bitcoin
+> - Ethereum
+> - Litecoin
+> - Tether
+> - Ripple
+> - Binance coin
+> - Cardano
+> - Litecoin
 
 ## Követelménylista
 
