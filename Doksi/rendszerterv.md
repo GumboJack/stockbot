@@ -142,6 +142,34 @@ Tomcat **Webszervert** használunk.
 
 ### 4.3 Törvényi előírások, szabványok
 
+Szerzői jogi törvény (1999. évi LXXVI. törvény; röviden: Szjt.), illetve a 
+
+  2016. évi XCIII. törvény A szerzői jogok és a szerzőijoghoz kapcsolódó jogok közös kezeléséről  
+
+  2018. évi LIV. törvény az üzleti titok védelméről
+
+  2015. évi CCXXII. törvény az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól
+
+  1995. évi LXVI. törvény a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről
+
+  73/2018. (IV. 20.) Korm. rendelet a helyi közszolgáltatás információs rendszerről
+
+  187/2015. (VII. 13.) Korm. rendelet az elektronikus információs rendszerek biztonsági felügyeletét ellátó hatóságok,
+  valamint az információbiztonsági felügyelő feladat- és hatásköréről, továbbá a zárt célú elektronikus információs rendszerek
+  meghatározásáról
+
+  Az ISO / IEC 12207 a nemzetközi szabvány, amely tartalmazza a szoftver életciklusának kiválasztási, bevezetési és ellenőrzési
+  módszerét.
+
+  Az ISO 9000 leírja a termékek előállításának hivatalosan szervezett folyamatát, valamint az előrehaladás irányításának és 
+  nyomon követésének módszereit.
+
+  Az ISO / IEC 24744 szoftverfejlesztés - Metamodel for Development Methodologies, egy Powertype-alapú metamodell
+  szoftverfejlesztési módszertanhoz.
+
+  ISO / IEC 15504 Információs technológia — folyamatértékelés, más néven a szoftverfolyamat-fejlesztési képesség meghatározása
+  (SPICE), "a szoftverfolyamatok értékelésének kerete".
+
 ## 5. Funkcionális terv
 
 ## 6. Fizikai környezet
