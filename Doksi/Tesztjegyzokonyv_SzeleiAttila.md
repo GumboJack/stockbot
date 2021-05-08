@@ -8,9 +8,9 @@
 
 
 | Verzió    | Modul | Megjegyzés | Teszt OK/NOK |
-| :-------- | :-------: | ----:  | ----:  |
+| :-------- | :-------: | ----:  | ----:   |
 |V:1.0|database| adatbázis kapcsolat probléma - hibernate konfigurálásakor |NOK|
-|V:1.0|database|Sikeres kapcsolat esetén logolva van hogy sikeres a kapcsolat.|OK|
+|V:1.0|database|Sikeres kapcsolat esetén logolva van hogy, sikeres a kapcsolat.|OK|
 |V:1.0|API|Minden egyes API hívásnál  (Lunarcrush API) a console-on logolva van a hívás ideje, sikeres volt-e. |OK|
 |V:1.0|API|Az API adattömbjében túl sok nem releváns adat van jelen, ezért az adatstruktúra megszűrve kerül az adatbázisba, tárhelyoptimalizálás végett| OK |
 |V:1.0|API|Az API hívásoknál be kell állítani hogy hány másodpercenként hívja azt a programunk. A kereskedés szempontjából elég ha 5 percenként hívja azt.|OK|
