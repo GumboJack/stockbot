@@ -26,7 +26,6 @@ public class LunarClient extends Client {
         } catch (Exception e) {
             logger.log(Level.SEVERE, e.getMessage(), e);
         }
-
         if (uri != null) {
             HttpGet request = new HttpGet(uri);
             try (CloseableHttpClient httpClient = HttpClients.createDefault();
