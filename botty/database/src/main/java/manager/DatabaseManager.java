@@ -167,4 +167,28 @@ public class DatabaseManager {
         return coinData;
     }
 
+
+    @Transactional
+    public List<Coin> getAllCoins(){
+        EntityManagerFactory entityManagerFactory = null;
+        EntityManager entityManager = null;
+        List<Coin> result = null;
+
+        try {
+            entityManagerFactory = Persistence.createEntityManagerFactory(persistence);
+            entityManager = entityManagerFactory.createEntityManager();
+            String queryString = "SELECT c FROM ScopeCoins c";
+            List<ScopeCoins> scopeCoins = entityManager.createQuery(queryString, ScopeCoins.class).getResultList();
+            result = new ArrayList<>();
+            for (ScopeCoins c:
+                 scopeCoins) {
+                result.add(new Coin(c.getId(), c.getName()));
+            }
+        }catch (Exception e){
+            logger.log(Level.SEVERE, e.getMessage(), e);
+        }
+
+        return result;
+    }
+
 }
