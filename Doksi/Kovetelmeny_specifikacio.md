@@ -25,7 +25,7 @@ Ezt legegyszerűbben úgy tudjuk elérni, hogy stratégiákat, algoritmusokat al
 > - Cardano
 > - Litecoin
 
-## Jelenlegi helyzet
+## Jelenlegi helyze
 
 Manapság a kriptovaluta kereskedés nagyon népszerű téma miután a pár forintról induló bitcoin értéke elérte már a  18 millió forintot is. A kriptovaluta egy digitális valuta, amely nem köthető egyetlen hagyományos valutához vagy centralizált szervezethez sem. Nem áll tehát egyetlen bank, szövetségi rendszer vagy kormány tulajdonában sem, így független az eurótól, a dollártól, de még az ezüsttől és az aranytól is. A csalás megelőzése és a biztonságos bitcoin pénzkeresés érdekében a kriptoválutával történő tranzakciók egy ún. blokkláncban kerülnek digitálisan rögzítésre, ami a gerince és egyben a kulcsa is a kriptovaluta sikerének. A blokklánc a “papír könyvelés” digitális változata a tranzakciókról vagy nyugtákról.
 A tranzakciók egy szigorú visszaigazoló folyamaton mennek keresztül, így biztosítják, hogy csak valódi tranzakciókat adnak hozzá a blokklánchoz, az egyének számára pedig azt, hogy bevételt szerezhetnek az interneten kereskedés, befektetés, bányászat, vagy valuta vásárlás folyamán.
@@ -127,10 +127,53 @@ Az Európai Parlament és a Tanács (EU) *2016/679 *rendelete a természetes sze
   
 
 ## Jelenlegi üzleti folyamatok modellje
+**Üzleti szereplők:** 
+-   vevő (Aki megveszi a kereskedő botot)
+-   broker (Aki figyeli a tőzsdei híreket) 
+
+**Üzleti munkatárs:** 
+-   Kereskedő BOT
+
+**Üzleti entitások:**
+-   Kriptovaluták
+    -   Ethereum
+    -   Bitcoin
+    -   Raven
+    -   LiteCoin
+
+**Üzleti folyamatok:** 
+
+**Vevő számára:** 
+    A vevő megvásárolta a kereskedő botot amit ha futtat akkor képes, profitot termelni különböző stratégiák alkalmazásakor. 
 
 ## Igényelt üzleti folyamatok
 
+**Üzleti szereplők:** 
+-   Futtató (Aki futtatja a kereskedő botot.)
+
+**Üzleti munkatárs:** 
+-   Kereskedő bot
+
+**Üzleti entitások:**
+-   Kriptovaluták
+    -   Ethereum
+    -   Bitcoin
+    -   Raven
+    -   LiteCoin 
+
+**Üzleti folyamatok:** 
+
+**Online folyamatok kereskedő számára:**
+
+A kriptovaluta kereskedő futtatja a kripto botot, ami egy adott stratégia alapján elad vagy vesz valutákat, és által profitot termel.
+
 ## Követelménylista
+ID|Verzió|Név|Kifejtés
+--|------|---|--------
+K01|V1.0|API hívás|A program meghívja bizonyos időnként a Lunarcrush API-t. 
+K01|V1.0|Adatok tárolása|Az API álltal szolgáltatott adatokat, egy adatbázisban el kell tárolni (PostgreSQL). 
+K01|V1.0|consolos megjelenítés|apihívások eredményei, mikor, milyen adatokat kér le az API-tól logolja a consolra.
+K01|V1.0|Adatmegjelenítés webfelületen|Chart segítségével diagramm megjelenítés az idő és a profit függvényében. 
 
 ## Fogalom szótár
 
