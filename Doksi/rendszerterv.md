@@ -172,7 +172,7 @@ Szerzői jogi törvény (1999. évi LXXVI. törvény; röviden: Szjt.), illetve 
 
 * ISO / IEC 15504 Információs technológia — folyamatértékelés, más néven a szoftverfolyamat-fejlesztési képesség meghatározása (SPICE), "a szoftverfolyamatok értékelésének kerete".
 
-## 5. Funkcionális terv
+### 5. Funkcionális terv
 
 ## 6. Fizikai környezet
 
@@ -221,3 +221,29 @@ Változás esetén mind a szerver mind a kliens oldalon szükséges módosítani
       price: $
 
 ## 9. Implementációs terv:
+- OOP alapelvek használata. 
+- Design patternek használa.
+
+### Felépítés
+- Api-connector modul
+    - Client package
+        - Client (abstractClass)
+        - ClientFactory (class)
+        - ClientType (enum)
+        - LunarClient(class)
+
+ - Database modul
+    - Entities package
+        - Coin (class)
+        - Data (class)
+        - ScopeCoins (class)
+    - Manager package
+        - DatabaseManager (class)
+  
+  - Webapp modul
+      - Cron package
+      - servlets package
+        - StartupServlet (class)   
+      - WEB
+            
+        
