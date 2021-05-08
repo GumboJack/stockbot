@@ -77,27 +77,29 @@ Tesztelés:
 Esetleges hibák detektálása, kijavítása
 
 ### 2.3 Ütemterv
-||Funkció / Story | Feladat / Task | Prioritás | Becslés | Aktuális becslés | Elteltidő | Hátralévő idő ||
-|-|---------------|----------------|-----------|---------|------------------|-----------|---------------|-|
-||Követelmény specifikáció|        |         1 |      9  |               6  |        9  |             0 ||
-||Funkcionális specifikáció|       |         1 |      8  |               6  |        8  |             0 ||
-||Rendszerterv|                    |         1 |      11 |               8 |         10|             1 ||
-||Webszerver|apache2 TOMCAT impl|       1 |       3 |                4 |         4 |             0 ||
-||Adattárolás|Adatmodell megtervezése|       1 |       1 |                1 |         1 |             0 ||
-||Adattárolás|PostgreSQL|       1 |       2 |                4 |         3 |             1 ||
-||Adatbázis kapcsolat| Hibernate |             1 |       3 |                5 |         5 |             0 ||
-||API hívás |LUNARCRUSH |1 |  3 |                3 |         0 |             3 ||
-||Website|Képernyőtervek elkészítése|        2 |       8 |                5 |         0 |             8 ||
-||Program|Tesztelés|                         2 |      16 |               11 |         0 |            11 ||
+|Funkció / Story          | Feladat / Task           | Prioritás | Becslés | Aktuális becslés | Elteltidő | Hátralévő idő |
+|-------------------------|--------------------------|-----------|---------|------------------|-----------|---------------|
+|Követelmény specifikáció |                          |         1 |       9 |                6 |         9 |             0 |
+|Funkcionális specifikáció|                          |         1 |       8 |                6 |         8 |             0 |
+|Rendszerterv             |                          |         1 |      11 |                8 |        10 |             1 |
+|Webszerver               |apache2 TOMCAT impl       |         1 |       3 |                4 |         4 |             0 |
+|Adattárolás              |Adatmodell megtervezése   |         1 |       1 |                1 |         1 |             0 |
+|Adattárolás              |PostgreSQL                |         1 |       2 |                4 |         3 |             1 |
+|Adatbázis kapcsolat      |Hibernate                 |         1 |       3 |                5 |         5 |             0 |
+|API hívás                |LUNARCRUSH                |         1 |       3 |                3 |         0 |             3 |
+|Website                  |Képernyőtervek elkészítése|         2 |       8 |                5 |         0 |             8 |
+|Program                  |Tesztelés                 |         2 |      16 |               11 |         0 |            11 |
 
 ### 2.4 Mérföldkövek
 
-- A prototipus bemutatása
+- A prototípus bemutatása
 - Az elkészült szoftver átadása
 
 ## 3. Üzleti folyamatok modellje
+
 ### 3.1 Üzleti szereplők
 A rendszert egy user fogja futtatni ahol egy kriptovaluta kereskedő bot fogja adni/venni a valutákat, bizonyos stratégiák szerint.
+
 ### 3.2 Üzleti folyamatok
 A fejlesztői környezet IntelliJ IDEA, amiben történik az **API** hivás. Lunarcrush API használunk.
 - A LunarCRUSH egy közösségi figyelő platform, amely segít a kriptovaluta   befektetőknek megérteni a több mint 2000 kriptovaluta valódi értékét.
@@ -114,7 +116,6 @@ Tomcat **Webszervert** használunk.
 ### 3.3 Üzleti entitások 
 -   Kriptovaluta
 
-
 ## 4. Követelmények
 
 ### 4.1 Funkcionális követelmények
@@ -122,21 +123,21 @@ Tomcat **Webszervert** használunk.
 ### 4.2 Nemfunkcionális követelmények
 
 * Termék követelmények
-    * Használhatósági követelmények: A fejelsztésre kerülő szoftver könnyen tanulható és használható, minimális informatikai tudással is alkalmazható. 
-    * Megbízhatósági követelmények: A kiaalakítandó szisztéma statisztikái webes felületen keresztül érhetőek el, maga a program háttérben fut.
+    * Használhatósági követelmények: A fejlesztésre kerülő szoftver könnyen tanulható és használható, minimális informatikai tudással is alkalmazható. 
+    * Megbízhatósági követelmények: A kialakítandó szisztéma statisztikái webes felületen keresztül érhetőek el, maga a program háttérben fut.
     * Hatékonysági követelmények:
       * Teljesítmény követelmények: A rendszert egyidőben használók létszáma a bevezetést követő néhány hónapban előreláthatólag nem haladja meg az egy főt. A jól skálázhatóság következtében ennél jóval nagyobb létszám kiszolgálására is alkalmas a struktúra. 
       * Méret követelmények: A szoftver mérete nem haladja meg az 200 MB-ot.
     * Hordozhatósági követelmények: Amennyiben a rendszer fizikai környezete megváltozik, pl. hardverfejlesztés, bővítés zajlik, a rendszer az új környezetben is felhasználható lesz.
     
   * Szervezeti követelmények
-    * Szállítási követelmények: A szoftver a szerződésben meghatározozott időpontig kerül átadásra, ellenkező esetben a szerződésben található kötbér illeti meg a megrendelőt.
+    * Szállítási követelmények: A szoftver a szerződésben meghatározott időpontig kerül átadásra, ellenkező esetben a szerződésben található kötbér illeti meg a megrendelőt.
     * Implementációs követelmények: A program a szerződésben meghatározott gépekre kerül telepítésre.
     * Szabványügyi követelmények: A vonatkozó szabványügyi kritériumok Törvényi előírások, a szabványok fejezetben találhatók.
       
   * Külső követelmények
-    * Együttműködési követelmények: A szoftverfejlesztő cég szakamberei és a megrendelő közötti kapcsoalttartást a szerződésben meghatározott személyek végzik. Szükség esetén mindkét oldalról bevonnak további szakembereket az együttműködés optimalizálása céljából.
-    * Etikai követelmények: A szoftverfeljesztő cég munkatársainak a jóváhagyott etikai kódex alapján kell viselkedniük.
+    * Együttműködési követelmények: A szoftverfejlesztő cég szakemberei és a megrendelő közötti kapcsolattartást a szerződésben meghatározott személyek végzik. Szükség esetén mindkét oldalról bevonnak további szakembereket az együttműködés optimalizálása céljából.
+    * Etikai követelmények: A szoftverfejlesztő cég munkatársainak a jóváhagyott etikai kódex alapján kell viselkedniük.
     * Jogi követelmények:
       * Titokvédelmi követelmények: E téren a törvényi előírások az irányadók. A program semmiféle személyes vagy statisztikai adatot nem gyűjt, így azok nem kerülhetnek harmadik félhez. A fejlesztő cég munkatársai vállalják, hogy a sikeres átadás átvételt követően a nem üzleti jellegű adatokat megsemmisítik.
 
@@ -173,31 +174,33 @@ Szerzői jogi törvény (1999. évi LXXVI. törvény; röviden: Szjt.), illetve 
 ## 5. Funkcionális terv
 
 ## 6. Fizikai környezet
+
 ### 6.1 Vásárolt softwarekomponensek és külső rendszerek
 Szoftverkomponensek vásárlása nem szükséges.
+
 ### 6.2 Hardver és hálózati topológia
 - Az alkalmazás webes technológiákon alapszik
-- API hivások segitségével tölti fel az adatbázits
-- Az adatbázisban tárolt adatok és a megadott kereskedési stratégiák segitségével kriptovalutákad ad és vesz
-- Az adatbázisban tárolt adatokat webes felületen megjeleniti
+- API hivások segítségével tölti fel az adatbázist
+- Az adatbázisban tárolt adatok és a megadott kereskedési stratégiák segítségével kriptovalutákat ad és vesz
+- Az adatbázisban tárolt adatokat webes felületen megjeleníti
 - A végzett tevékenységekről visszajelzést ad (CLI)
 ### 6.3 Fizikai alrendszerek
 - Lunarcrush API
 - Webszerver (Tomcat)
 - Adatbázis (PostgreSQL)
-- Kliens gép (A web UI megjelenitésére alkalmas eszköz)
+- Kliens gép (A web UI megjelenítésére alkalmas eszköz)
 ### 6.4 Fejlesztői eszközök
 - IntelliJ IDEA
 - PG Admin
 ## 7. Architekturális terv
- Egy külső API segitségével adatokat nyerünk a követett kriptovaluták árfolyam mozgásairól. Ezt egy adatbázisban tároljuk, ez alapján a bot kereskedik a szóban forgó valutákkal. A tárolt adatokat webes felületen megjeleniti, az árfolyam változások könnyű nyomonkövethetősége érdekében.
+ Egy külső API segítségével adatokat nyerünk a követett kriptovaluták árfolyam mozgásairól. Ezt egy adatbázisban tároljuk, ez alapján a bot kereskedik a szóban forgó valutákkal. A tárolt adatokat webes felületen megjeleníti, az árfolyam változások könnyű nyomonkövethetősége érdekében.
 ### 7.1 Az alkalmazás rétegei, fő komponensei, ezek kapcsolatai
 #### Lunarcrush API
-Ez egy külső API, ami bárkinek ingyenesen elérhető, és a legfontosabb kriptovaluták árfolyamairól lehet real time adatokat lekérni. Az árfolyam változásokon túl elérhetőek például olyan adatok is, mint hogy hány twitter/reddit emlitése volt adott időszakban a keresett kriptovalutának, ezáltal összetett döntések meghozatalára is alkalmas mesterséges intelligenciát hasnzáló bot kiszolgálására is alkalmas lehet.
+Ez egy külső API, ami bárkinek ingyenesen elérhető, és a legfontosabb kriptovaluták árfolyamairól lehet real time adatokat lekérni. Az árfolyam változásokon túl elérhetőek például olyan adatok is, mint hogy hány twitter/reddit emlitése volt adott időszakban a keresett kriptovalutának, ezáltal összetett döntések meghozatalára is alkalmas mesterséges intelligenciát használó bot kiszolgálására is alkalmas lehet.
 #### Tomcat server
-Az Apache Tomcat egy tisztán Java nyelven készült webszerver, amely implementálja a Sun-féle Java Servlet és a JavaServer Pages specifikációkat. E specifikációkat támogató webszervereket szokás a servlet container, a servlet engine illetve a web engine összetételekkel is illetni. Mivel tisztán java nyelvet használ a webszerver, igy a bot funkcióit a backendbe épitve meg tudjuk valósitani. Ez az egész alkalmazás központja, itt történik a kommunikáció a külső API-al, az adatbázissal és a frontendel is.
+Az Apache Tomcat egy tisztán Java nyelven készült webszerver, amely implementálja a Sun-féle Java Servlet és a JavaServer Pages specifikációkat. E specifikációkat támogató webszervereket szokás a servlet container, a servlet engine illetve a web engine összetételekkel is illetni. Mivel tisztán java nyelvet használ a webszerver, így a bot funkcióit a backendbe építve meg tudjuk valósítani. Ez az egész alkalmazás központja, itt történik a kommunikáció a külső API-al, az adatbázissal és a frontendel is.
 #### PostgreSQL adatbázis
-Ez egy ingyenes és nyilt forráskodú relációs adatbázis, ami stabiul és skálázható, és rendkivül gördulenkenyen mukodik egyutt a tomcat serverrel.
+Ez egy ingyenes és nyílt forráskódú relációs adatbázis, ami stabil és skálázható, és rendkívűl gördülékenyen működik együtt a Tomcat serverrel.
 #### Frontend
 A frontend JavaServer Pages (röviden JSP) felhasználásával lett kivitelezve. E technológia segítségével a szoftverfejlesztő dinamikusan tud generálni HTML, XML vagy egyéb dokumentumokat HTTP kérésekre reagálva. A JSP tekinthető a servlet réteg feletti absztrakciós szintnek. A JSP oldalból java servlet forráskód generálódik
 ### 7.3 Változások kezelése
@@ -209,7 +212,7 @@ Változás esetén mind a szerver mind a kliens oldalon szükséges módosítani
     mezők: 
       id(kulcs),
       név 
-**Table** : CoinName_data - *Amikor bekerül egy coin az adatbáziba akkor egyből csinál egy táblát a röviditett nevével_data.*
+**Table** : CoinName_data - *Amikor bekerül egy coin az adatbázisba akkor egyből csinál egy táblát a röviditett nevével_data.*
 
     mezők:
       id(key),
