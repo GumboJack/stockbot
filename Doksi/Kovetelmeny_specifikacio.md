@@ -25,7 +25,7 @@ Ezt legegyszerűbben úgy tudjuk elérni, hogy stratégiákat, algoritmusokat al
 > - Cardano
 > - Litecoin
 
-## Jelenlegi helyzet
+## Jelenlegi helyze
 
 Manapság a kriptovaluta kereskedés nagyon népszerű téma miután a pár forintról induló bitcoin értéke elérte már a  18 millió forintot is. A kriptovaluta egy digitális valuta, amely nem köthető egyetlen hagyományos valutához vagy centralizált szervezethez sem. Nem áll tehát egyetlen bank, szövetségi rendszer vagy kormány tulajdonában sem, így független az eurótól, a dollártól, de még az ezüsttől és az aranytól is. A csalás megelőzése és a biztonságos bitcoin pénzkeresés érdekében a kriptoválutával történő tranzakciók egy ún. blokkláncban kerülnek digitálisan rögzítésre, ami a gerince és egyben a kulcsa is a kriptovaluta sikerének. A blokklánc a “papír könyvelés” digitális változata a tranzakciókról vagy nyugtákról.
 A tranzakciók egy szigorú visszaigazoló folyamaton mennek keresztül, így biztosítják, hogy csak valódi tranzakciókat adnak hozzá a blokklánchoz, az egyének számára pedig azt, hogy bevételt szerezhetnek az interneten kereskedés, befektetés, bányászat, vagy valuta vásárlás folyamán.
