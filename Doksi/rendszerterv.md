@@ -121,6 +121,25 @@ Tomcat **Webszervert** használunk.
 
 ### 4.2 Nemfunkcionális követelmények
 
+* Termék követelmények
+    * Használhatósági követelmények: A fejelsztésre kerülő szoftver könnyen tanulható és használható, minimális informatikai tudással is alkalmazható. 
+    * Megbízhatósági követelmények: A kiaalakítandó szisztéma statisztikái webes felületen keresztül érhetőek el, maga a program háttérben fut.
+    * Hatékonysági követelmények:
+      * Teljesítmény követelmények: A rendszert egyidőben használók létszáma a bevezetést követő néhány hónapban előreláthatólag nem haladja meg az egy főt. A jól skálázhatóság következtében ennél jóval nagyobb létszám kiszolgálására is alkalmas a struktúra. 
+      * Méret követelmények: A szoftver mérete nem haladja meg az 200 MB-ot.
+    * Hordozhatósági követelmények: Amennyiben a rendszer fizikai környezete megváltozik, pl. hardverfejlesztés, bővítés zajlik, a rendszer az új környezetben is felhasználható lesz.
+    
+  * Szervezeti követelmények
+    * Szállítási követelmények: A szoftver a szerződésben meghatározozott időpontig kerül átadásra, ellenkező esetben a szerződésben található kötbér illeti meg a megrendelőt.
+    * Implementációs követelmények: A program a szerződésben meghatározott gépekre kerül telepítésre.
+    * Szabványügyi követelmények: A vonatkozó szabványügyi kritériumok Törvényi előírások, a szabványok fejezetben találhatók.
+      
+  * Külső követelmények
+    * Együttműködési követelmények: A szoftverfejlesztő cég szakamberei és a megrendelő közötti kapcsoalttartást a szerződésben meghatározott személyek végzik. Szükség esetén mindkét oldalról bevonnak további szakembereket az együttműködés optimalizálása céljából.
+    * Etikai követelmények: A szoftverfeljesztő cég munkatársainak a jóváhagyott etikai kódex alapján kell viselkedniük.
+    * Jogi követelmények:
+      * Titokvédelmi követelmények: E téren a törvényi előírások az irányadók. A program semmiféle személyes vagy statisztikai adatot nem gyűjt, így azok nem kerülhetnek harmadik félhez. A fejlesztő cég munkatársai vállalják, hogy a sikeres átadás átvételt követően a nem üzleti jellegű adatokat megsemmisítik.
+
 ### 4.3 Törvényi előírások, szabványok
 
 ## 5. Funkcionális terv
