@@ -127,8 +127,45 @@ Az Európai Parlament és a Tanács (EU) *2016/679 *rendelete a természetes sze
   
 
 ## Jelenlegi üzleti folyamatok modellje
+**Üzleti szereplők:** 
+-   vevő (Aki megveszi a kereskedő botot)
+-   broker (Aki figyeli a tőzsdei híreket) 
+
+**Üzleti munkatárs:** 
+-   Kereskedő BOT
+
+**Üzleti entitások:**
+-   Kriptovaluták
+    -   Ethereum
+    -   Bitcoin
+    -   Raven
+    -   LiteCoin
+
+**Üzleti folyamatok:** 
+
+**Vevő számára:** 
+    A vevő megvásárolta a kereskedő botot amit ha futtat akkor képes, profitot termelni különböző stratégiák alkalmazásakor. 
 
 ## Igényelt üzleti folyamatok
+
+**Üzleti szereplők:** 
+-   Futtató (Aki futtatja a kereskedő botot.)
+
+**Üzleti munkatárs:** 
+-   Kereskedő bot
+
+**Üzleti entitások:**
+-   Kriptovaluták
+    -   Ethereum
+    -   Bitcoin
+    -   Raven
+    -   LiteCoin 
+
+**Üzleti folyamatok:** 
+
+**Online folyamatok kereskedő számára:**
+
+A kriptovaluta kereskedő futtatja a kripto botot, ami egy adott stratégia alapján elad vagy vesz valutákat, és által profitot termel.
 
 ## Követelménylista
 ID|Verzió|Név|Kifejtés
