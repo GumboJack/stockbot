@@ -11,8 +11,26 @@
 
 ## Célok
 
+A projekt célja egy olyan kereskedő bot megalkotása, aminek segítségével profitot termelhetünk minimális kockázattal.
+
+Ezt legegyszerűbben úgy tudjuk elérni, hogy stratégiákat, algoritmusokat alkalmazunk amiket a programunkban implementálunk. Emellett fontos, hogy az általunk kiválasztott kriptovaluta megfeleljen különböző szempontoknak. A valutának  stabilnak kell lennie és fejlődő tendenciát kell hogy mutasson. Továbbá érdemes figyelni azt, hogy az egyes cégek mennyi és milyen részvényekbe fektetik bele a pénzüket. Egyre népszerűbbek azok a "centes" cryptovaluták amiknek az értékük úgy emelkedik minél többen "Tweetelik", és "hypolják" egyes platformokon.  Manapság elég sokan arany és ezüst helyett a pénzüket inkább kriptorészvénybe fektetik. Mint például:
+
+> - Bitcoin
+> - Ethereum
+> - Litecoin
+> - Tether
+> - Ripple
+> - Binance coin
+> - Cardano
+> - Litecoin
 
 ## Követelménylista
+ID|Verzió|Név|Kifejtés
+--|------|---|--------
+K01|V1.0|API hívás|A program meghívja bizonyos időnként a Lunarcrush API-t. 
+K01|V1.0|Adatok tárolása|Az API álltal szolgáltatott adatokat, egy adatbázisban el kell tárolni (PostgreSQL). 
+K01|V1.0|consolos megjelenítés|apihívások eredményei, mikor, milyen adatokat kér le az API-tól logolja a consolra.
+K01|V1.0|Adatmegjelenítés webfelületen|Chart segítségével diagramm megjelenítés az idő és a profit függvényében. 
 
 
 ## Használati esetek
@@ -25,14 +43,17 @@ Képesnek kell lennie:
 - reagálni az árfolyam változásaira
 - ezáltal (ha a megadott stratégia helyes) képesnek kell lennie felismernie ha az éppen használt valutával való kereskedés nem jövedelmező
 - nem deficittel dolgozni
+- az aktualis arfolyam mozgasokat megjeleniti webes felületen
 
 A rendszer üzemeltetője az adminisztrátor, aki a bot visszajelzései alapján képes módosítani az éppen használt stratégiát, vagy lehetősége van újat megadni.
 
 ## Képernyőtervek
+![Chart](https://i.imgur.com/SKp1yAN.png"KepernyoTerv")
 
 ## Forgatókönyvek
 
 A bot alapesetben konzol commandok képében ad visszajelzést a működéséről. Jelzi ha vett, vagy ha eladott valutát, illetve megadott időintervallum elteltével jelez az ez idő alatt végbe ment tranzakciókról. Ha ezek mérlege negatív, akkor figyelmeztet, hogy a jelenleg használt stratégiát érdemes felülvizsgálni.
+A bot képes megjeleniteni egy webes felületen az adatbázisban tárolt adatokat, hogy könnyebben átlátható legyen az adattömeg, illetve annak változásai. Ennek segitségével könnyebben módositható a használt stratégia.
 
 ## Fogalomszótár
 
