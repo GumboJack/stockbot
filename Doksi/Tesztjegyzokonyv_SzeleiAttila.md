@@ -8,7 +8,7 @@
 
 
 | Verzió    | Modul | Megjegyzés | Teszt OK/NOK |
-| :-------- | :-------: | ----:  | ----:   |
+| :-------- | :-------: | :----  | :----:   |
 |V:1.0|database| adatbázis kapcsolat probléma - hibernate konfigurálásakor |NOK|
 |V:1.0|database|Sikeres kapcsolat esetén logolva van hogy, sikeres a kapcsolat.|OK|
 |V:1.0|API|Minden egyes API hívásnál  (Lunarcrush API) a console-on logolva van a hívás ideje, sikeres volt-e. |OK|
