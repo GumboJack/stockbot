@@ -1,11 +1,11 @@
 ## Teszt jegyzőkönyv
 
 | Projekt név | Készítette    | Dokumentáció célja       | Dátum       | Talált hibák |
-| :---------- | :-------:     | ----:                    | ----:       | ---:         |
+| :---------- | :-------      | :----                    | ----:       | ---:         |
 | Stock bot   | Eszényi Tamás | Tesztelés dokumentálása  | 2021.05.07. |            1 |
 
 | Verzió    | Modul     | Megjegyzés | Teszt OK/NOK |
-| :-------- | :-------: | ----:     | ----:  |
+| :-------- | :-------: | :----     | :----:  |
 | V:1.0     | web       | A webfelületen nem működött a javascript és a css. (Böngésző: Vivaldi, Edge) | NOK |
 | V:1.1     | web       | A webfelületen nem működött a javascript és a css, ennek az oka, hogy a Tomcat-ben nem volt engedéleyzve a .js és .css kiterjesztésű fájlok kiszolgálása. | OK |
 | V:1.0     | api       | API hívás sikertelen.  | NOK |
