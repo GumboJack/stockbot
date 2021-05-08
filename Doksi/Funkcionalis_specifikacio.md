@@ -42,6 +42,7 @@ Képesnek kell lennie:
 A rendszer üzemeltetője az adminisztrátor, aki a bot visszajelzései alapján képes módosítani az éppen használt stratégiát, vagy lehetősége van újat megadni.
 
 ## Képernyőtervek
+![Chart](https://i.imgur.com/SKp1yAN.png"KepernyoTerv")
 
 ## Forgatókönyvek
 
