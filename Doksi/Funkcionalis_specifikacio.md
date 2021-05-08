@@ -25,6 +25,12 @@ Ezt legegyszerűbben úgy tudjuk elérni, hogy stratégiákat, algoritmusokat al
 > - Litecoin
 
 ## Követelménylista
+ID|Verzió|Név|Kifejtés
+--|------|---|--------
+K01|V1.0|API hívás|A program meghívja bizonyos időnként a Lunarcrush API-t. 
+K01|V1.0|Adatok tárolása|Az API álltal szolgáltatott adatokat, egy adatbázisban el kell tárolni (PostgreSQL). 
+K01|V1.0|consolos megjelenítés|apihívások eredményei, mikor, milyen adatokat kér le az API-tól logolja a consolra.
+K01|V1.0|Adatmegjelenítés webfelületen|Chart segítségével diagramm megjelenítés az idő és a profit függvényében. 
 
 
 ## Használati esetek
