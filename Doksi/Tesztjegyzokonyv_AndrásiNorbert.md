@@ -1,8 +1,9 @@
 # Teszt jegyzőkönyv
 
-| Projekt név:    | Készítette   | Dokumentáció célja | Dátum|Talált hibák|
-| :-------- | :-------: | ----:  | ----:  |---:|
+| Projekt név    | Készítette   | Dokumentáció célja | Dátum|Talált hibák|
+| :-------- | :------- | :----  | ----:  |---:|
 | Stock bot | Andrási Norbert | Tesztelés dokumentálása  | 2021.05.09 |3
+
 | Verzió    | Modul | Megjegyzés | Teszt OK/NOK |
 | :-------- | :-------: | :----  | :----:   |
 |V:1.0|Database | adatbázis kapcsolat probléma - hibernate konfigurálásakor |NOK|
